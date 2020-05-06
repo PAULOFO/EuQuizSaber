@@ -1,0 +1,168 @@
+[
+    {
+        "1": "(01) O filme Batman - O Cavaleiro das Trevas é o Segundo filme da trilogia Batman do diretor Christopher Nolan, onde o ator principal é:",
+        "2": "(02) Qual foi a distribuidora do filme Batman - O Cavaleiro das Trevas?",
+        "3": "(03) O primeiro filme da série 007 foi?,",
+        "4": "(04) Característica marcante nos filmes de Bond são as \"bugigangas\" em carros, aviões, relógios,... Ná década de 1970 houve um filme que o carro andava dentro d'água. Esse filme foi:",
+        "5": "(05) Quem dirigiu o filme Avatar?",
+        "6": "(06) Qual o nome do principal personagem de Avatar?",
+        "7": "(07) Qual o nome do planeta onde se passa o filme Avatar?",
+        "8": "(08) Em Avatar qual o nome da criatura mais temida do filme?",
+        "9": "(09) Qual foi a maior inovação do filme Avatar?",
+        "10": "(10) Qual o nome do pai de Willy Wonka no filme A Fantástica Fábrica de Chocolate?",
+        "11": "(11) Que objeto Willy Wonka usa para percorrer os lugares mais rápido?",
+        "12": "(12) O ator Deep Roy interpreta quem no filme A Fantástica Fábrica de Chocolate?",
+        "13": "(13) Qual é o nome do homem que vem do futuro para defender Sarah Connor do exterminador no filme O Exterminador do Futuro?",
+        "14": "(14) Qual o modelo do exterminador que veio matar Sarah Connor?",
+        "15": "(15) Qual o nome da rede de computadores que vai dominar o mundo O Exterminador do Futuro?",
+        "16": "(16) Qual a famosa frase pronunciada pelo T-800 (Arnold Schwarzenegger)antes de atirar no T-1000 congelado em O Exterminador do Futuro 2?",
+        "17": "(17) Em X-Men qual mutante foi sacrificado para criar a Arma 11?",
+        "18": "(18) Quem salvou Wolverine e Vampira de Dentes de Sabre em X-Men",
+        "19": "(19)Qual mutante é possuída pela Fênix em X-Men?",
+        "20": "(20) Qual mutante foi assassinado por Wolverine?"
+    },
+    {
+        "1": {
+            "a": "Michael Keaton",
+            "b": "Michael Caine",
+            "c": "Christian Bale",
+            "d": "Heath Ledger"
+        },
+        "2": {
+            "a": "Warner Bros",
+            "b": "Universal Pictures",
+            "c": "Dreamworks",
+            "d": "20th Century Fox"
+        },
+        "3": {
+            "a": "007 Cassino Royale",
+            "b": "007 O Espião que me Amava",
+            "c": "007 contra o Satãnico Dr. No",
+            "d": "007 contra GoldenEye"
+        },
+        "4": {
+            "a": "007 Os Diamantes são Eternos (1971)",
+            "b": "007 contra o Homem com a Pistola de Ouro (1974)",
+            "c": "007 O Espião que me Amava (1977)",
+            "d": "Com 007 Viva e Deixe Morrer (1973)"
+        },
+        "5": {
+            "a": "James Cameron",
+            "b": "Jeorge Lucas",
+            "c": "Tim Burtton",
+            "d": "Steven Spielberg"
+        },
+        "6": {
+            "a": "Jake Sully",
+            "b": "Trudy Chacon",
+            "c": "Coronel Miles Quaritch",
+            "d": "Eytucan"
+        },
+        "7": {
+            "a": "Andora",
+            "b": "Padiola",
+            "c": "Pandora",
+            "d": "Colora"
+        },
+        "8": {
+            "a": "Viperwolves",
+            "b": "Thanator",
+            "c": "Banshee",
+            "d": "Leonopteryx"
+        },
+        "9": {
+            "a": "Muita violência",
+            "b": "História complexa",
+            "c": "Tecnologia cinematográfica",
+            "d": "Feito com tecnologia 3D"
+        },
+        "10": {
+            "a": "Christopher Wonka",
+            "b": "Jonathan Wonka",
+            "c": "Geoffrey Wonka",
+            "d": "Wilbur Wonka"
+        },
+        "11": {
+            "a": "Um robô gigante",
+            "b": "Um elevador de vidro",
+            "c":"Um teletransporte",
+            "d": "Uma lambreta"
+        },
+        "12": {
+            "a": "O pai de Mike Teavee",
+            "b": "Os Oompa-Loompas",
+            "c": "O pai de Veruca Salt",
+            "d": "Willy Wonka"
+        },
+        "13": {
+            "a": "Kyle Connor",
+            "b": "Kyle Reese",
+            "c": "Matt Reese",
+            "d": "Michael Reese"
+        },
+        "14": {
+            "a": "T-600",
+            "b": "T-800",
+            "c": "T-888",
+            "d": "T-1000"
+        },
+        "15": {
+            "a": "Apple",
+            "b": "Google",
+            "c": "Microsoft",
+            "d": "Skynet"
+        },
+        "16": {
+            "a": "Até mais tarde.",
+            "b": "Fica frio, idiota.",
+            "c": "Hasta la vista, baby",
+            "d": "Mais tarde, idiota."
+        },
+        "17": {
+            "a": "Agente Zero",
+            "b": "Deadpool",
+            "c": "Dentes de Sabre",
+            "d": " Wolverine"
+        },
+        "18": {
+            "a": "Ciclope e Jean Grey",
+            "b": "Tempestade e Jean Grey",
+            "c": "Ciclope e Tempestade",
+            "d": "Homem de Gelo e Tempestade"
+        },
+        "19": {
+            "a": "Tempestade",
+            "b": "Vampira",
+            "c": "Mística",
+            "d": "Jean Grey"
+        },
+        "20": {
+            "a": "Agente Zero",
+            "b": "Dentes de Sabre",
+            "c": "Gambit",
+            "d": "Blob"
+        }
+    },
+    {
+        "1": "Christian Bale",
+        "2": "Warner Bros",
+        "3": "007 contra o Satãnico Dr. No",
+        "4": "007 O Espião que me Amava (1977)",
+        "5": "James Cameron",
+        "6": "Jake Sully",
+        "7": "Pandora",
+        "8": "Thanator",
+        "9": "Tecnologia cinematográfica",
+        "10": "Wilbur Wonka",
+        "11": "Um elevador de vidro",
+        "12": "Os Oompa-Loompas",
+        "13": "Kyle Reese",
+        "14": "T-800",
+        "15": "Skynet",
+        "16": "Hasta la vista, baby",
+        "17": "Deadpool",
+        "18": "Ciclope e Tempestade",
+        "19": "Jean Grey",
+        "20": "Agente Zero"
+    }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "1": "(01) Qual dessas empresas lançou o primeiro telefone celular:",
+    "2": "(02) Como se chamava o primeiro telefone celular?",
+    "3": "(03) Em que ano Martin Cooper criou o primeiro telefone celular?",
+    "4": "(04) Qual o preço dos primeiros celulares a serem criados?",
+    "5": "(05) Escolha a alternativa correta sobre o peso dos primeiros celulares:",
+    "6": "(06) Criado em 1973 e apresentando em 1974 o primeiro celular comercial só passou a ser vendido em qual ano?",
+    "7": "(07) Qual o primeiro telefone com flip?",
+    "8": "(08) Qual o nome do primeiro telefone em barra?",
+    "9": "(09) Qual aparelho é considerado o pai de todos os smartphones?",
+    "10": "(10) Em que ano surgiu o primeiro telefone bluetooth?",
+    "11": "(11) Quando surgiu o primeiro celular com câmera?",
+    "12": "(12) Qual empresa colocou no mercado o prmeiro celular com câmera?",
+    "13": "(13) Como se chamava o primeiro celular com câmera?",
+    "14": "(14) Qual o primeiro telefone ultra fino do mercado? ",
+    "15": "(15) Qual o primeiro celular com tela touchscreen resistiva?",
+    "16": "(16) Qual o primeiro celular com tela touchscreen mult-touch?",
+    "17": "(17) Dentre os celulares modernos qual é considerado a reinvenção do telefone celular?",
+    "18": "(18) Qual aparelho criou a categoria de tela gigantes, os phablets?",
+    "19": "(19) Qual empresa vendeu mais smartphones no mundo em 2019?",
+    "20": "(20) Qual o primeiro smartphone com sistema Android?"
+  },
+  {
+    "1": {
+      "a": "Apple",
+      "b": "Ericsson",
+      "c": "Motorola",
+      "d": "Samsung"
+    },
+    "2": {
+      "a": "DynaTAC 8000",
+      "b": "Nokia 2110",
+      "c": "Ericsson 768",
+      "d": "Nenhum desses"
+    },
+    "3": {
+      "a": "1970",
+      "b": "1971",
+      "c": "1973",
+      "d": "1983"
+    },
+    "4": {
+      "a": "4 Mil doláres",
+      "b": "3 Mil doláres",
+      "c": "2 Mil doláres",
+      "d": "Mil doláres"
+    },
+    "5": {
+      "a": "1 kilo",
+      "b": "Meio kilo",
+      "c": "300 gramas",
+      "d": "200 gramas"
+    },
+    "6": {
+      "a": "1981",
+      "b": "1981",
+      "c": "1983",
+      "d": "1984"
+    },
+    "7": {
+      "a": "Motorola MicroTAC",
+      "b": "Motorola StarTAC",
+      "c": "Nokia 6160",
+      "d": "BlackBerry"
+    },
+    "8": {
+      "a": "Nokia 6160",
+      "b": "Ericsson T65",
+      "c": "SPV M600",
+      "d": "Nenhum desses"
+    },
+    "9": {
+      "a": "BlackBerry PDA",
+      "b": "IBM Simon",
+      "c": "Nokia N82",
+      "d": "Nokia N95"
+    },
+    "10": {
+      "a": "1999",
+      "b": "2000",
+      "c": "2001",
+      "d": "2002"
+    },
+    "11": {
+      "a": "2000",
+      "b": "2001",
+      "c": "2002",
+      "d": "2003"
+    },
+    "12": {
+      "a": "Motorola",
+      "b": "Nokia",
+      "c": "Samsung",
+      "d": "Sanyo"
+    },
+    "13": {
+      "a": "Motorola RAZR V3",
+      "b": "SANYO SCP-5300",
+      "c": "Nokia N95",
+      "d": "iPhone"
+    },
+    "14": {
+      "a": "Apple iPhone",
+      "b": "Motorola RAZR V3",
+      "c": "Samsung Galaxy",
+      "d": "Nenhum desses"
+    },
+    "15": {
+      "a": "Apple iPhone",
+      "b": "Samsung Galaxy S",
+      "c": "LG GW620",
+      "d": "IBM Simon"
+    },
+    "16": {
+      "a": "Apple iPhone",
+      "b": "Sony Xperia 1",
+      "c": "LG Prada",
+      "d": "Samsung Galaxy S"
+    },
+    "17": {
+      "a": "Apple iPhone",
+      "b": "Sony Xperia X",
+      "c": "LG Prada",
+      "d": "Samsung Galaxy S"
+    },
+    "18": {
+      "a": "Apple iPhone 6 Plus",
+      "b": "Sony Xperia X",
+      "c": "LG Prada",
+      "d": "Samsung Galaxy Note"
+
+    },
+    "19": {
+      "a": "Apple",
+      "b": "Huawei",
+      "c": "Xiaomi",
+      "d": "Samsung"
+
+    },
+    "20": {
+      "a": "HTC Dream",
+      "b": "HTC Nexus One",
+      "c": "LG Nexus 4",
+      "d": "LG Nexus 5"
+    }
+  },
+  {
+    "1": "Motorola",
+    "2": "DynaTAC 8000",
+    "3": "1973",
+    "4": "4 Mil doláres",
+    "5": "Meio kilo",
+    "6": "1984",
+    "7": "Motorola StarTAC",
+    "8": "Nokia 6160",
+    "9": "IBM Simon",
+    "10": "2000",
+    "11": "2002",
+    "12": "Sanyo",
+    "13": "SANYO SCP-5300",
+    "14": "Motorola RAZR V3",
+    "15": "IBM Simon",
+    "16": "Apple iPhone",
+    "17": "Apple iPhone",
+    "18": "Samsung Galaxy Note",
+    "19": "Samsung",
+    "20": "HTC Dream"
+  }
+]

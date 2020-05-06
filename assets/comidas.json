@@ -1,0 +1,170 @@
+[
+  {
+    "1": "(01) Qual ingrediente não pode faltar em um Ceviche?",
+    "2": "(02) Identifique o prato emblemático das festas patrióticas mexicanas…",
+    "3": "(03) De raízes africanas e muito popular na Bahia, o carurú tem como principal ingrediente...",
+    "4": "(04) Cozinhar ou aquecer o alimento num recipiente dentro de outro onde há água fervendo, podendo ser feito diretamente no fogo ou no forno, constitui um processo de:",
+    "5": "(05) Qual desses ingredientes abaixo são utilizados em um tradicional Yakissoba?",
+    "6": "(06) A cocção de legumes pode ser realizada de diversas maneiras. Destas, quais podem ser consideradas como melhores usos do calor para um bom aproveitamento nutricional?",
+    "7": "(07) Pode se determinar o ponto de cocção das carnes vermelhas pela cor que estas apresentam, pela sua consistência ou pelo suco liberado pelo alimento. Considerando se os diferentes pontos de cocção, o que se pode denominar como carne cozida a Bleu?",
+    "8": "(08) O bolo é um alimento a base de massa de farinha, geralmente doce e cozido no forno. Além da farinha, é possível encontrar os seguintes ingredientes:",
+    "9": "(09) Dos pratos abaixo, assinale o que não se destaca na culinária do Centro Oeste brasileiro",
+    "10": "(10) Alguns frutos do mar como mariscos, siri e peixe boi fazem parte da culinário do seguinte estado:",
+    "11": "(11) O feijão tropeiro acompanhado de couve e tutu é prato típico de qual estado?",
+    "12": "(12) Assinale o prato abaixo que não faz parte da culinária gaúcha?",
+    "13": "(13) Qual estado é conhecido nacionalmente pelas suas pizzas?",
+    "14": "(14) Qual é a região de origem do cacau?",
+    "15": "(15) Qual o estado que mais produz cacau no Brasil?",
+    "16": "(16) Qual é a substância com maior quantidade na composição química da semente de cacau?",
+    "17": "(17) Qual a diferença entre chocolate branco e amargo?",
+    "18": "(18) De onde vem o queijo Feta?",
+    "19": "(19) Como se chama o líquido em que mergulhamos a carne para temperar?",
+    "20": "(20) Qual animal é conhecido como o melhor amigo do homem?"
+  },
+  {
+    "1": {
+      "a": "Peixe",
+      "b": "Limão",
+      "c": "Manga",
+      "d": "Nenhuma das opções"
+    },
+    "2": {
+      "a": "O mole poblano",
+      "b": "A sopa Asteca",
+      "c": "Os chiles en Nogada",
+      "d": "Nenhuma das opções"
+    },
+    "3": {
+      "a": "O inhame",
+      "b": "O pimentão",
+      "c": "O quiabo",
+      "d": "Nenhum desses"
+    },
+    "4": {
+      "a": "Banho-Maria",
+      "b": "Fritar",
+      "c": "Cocção",
+      "d": "Refogar"
+    },
+    "5": {
+      "a": "Acelga",
+      "b": "Carne seca",
+      "c": "Feijão",
+      "d": "Molho Barbecue"
+    },
+    "6": {
+      "a": "Calor direcionado apenas",
+      "b": "Calor úmido e misto",
+      "c": "Calor seco",
+      "d": "Calor úmido apenas"
+    },
+    "7": {
+      "a": "Mal passada e quase crua",
+      "b": "Bem passada",
+      "c": "Ao ponto e quase ao ponto",
+      "d": "Ao ponto e quase bem passada"
+    },
+    "8": {
+      "a": "Açúcar, maizena e frutas",
+      "b": "Brócolis, açúcar e chantilly",
+      "c": "Sal, açúcar e pimenta",
+      "d": "Amido de milho, fermento e limão"
+    },
+    "9": {
+      "a": "Bolinho de arroz",
+      "b": "Mariscos",
+      "c": "Pamonha",
+      "d": "Pequi"
+    },
+    "10": {
+      "a": "Alagoas",
+      "b": "Maranhão",
+      "c": "Rio Grande do Norte",
+      "d": "Rondônia"
+    },
+    "11": {
+      "a": "Ceará",
+      "b": "Mato Grosso",
+      "c": "Minas Gerais",
+      "d": "Paraná"
+    },
+    "12": {
+      "a": "Carne",
+      "b": "Frutas",
+      "c": "Leite de coco",
+      "d": "Qualquer alimento"
+    },
+    "13": {
+      "a": "Minas Gerais",
+      "b": "Paraná",
+      "c": "São Paulo",
+      "d": "Sergipe"
+    },
+    "14": {
+      "a": "América do Sul",
+      "b": "América Central",
+      "c": "América do Norte",
+      "d": "Todas erradas"
+    },
+    "15": {
+      "a": "Bahia",
+      "b": "Mato Grosso",
+      "c": "Paraná",
+      "d": "São Paulo"
+    },
+    "16": {
+      "a": "Amido",
+      "b": "Celulose",
+      "c": "Manteiga de cacau",
+      "d": "Proteína"
+    },
+    "17": {
+      "a": "O branco tem 25% de manteiga e o amargo 30%",
+      "b": "O branco tem mais açúcar que o amargo",
+      "c": "Amargo leite em pó e o branco sem liquor",
+      "d": "Nenhuma das respostas"
+    },
+    "18": {
+      "a": "Rússia",
+      "b": "Itália",
+      "c": "França",
+      "d": "Grécia"
+
+    },
+    "19": {
+      "a": "Macerar",
+      "b": "Molho",
+      "c": "Marinada",
+      "d": "Leite"
+
+    },
+    "20": {
+      "a": "Eua",
+      "b": "China",
+      "c": "Grã-Bretanha",
+      "d": "Índia"
+    }
+  },
+  {
+    "1": "Limão",
+    "2": "Os chiles en Nogada",
+    "3": "O quiabo",
+    "4": "Banho-Maria",
+    "5": "Acelga",
+    "6": "Calor úmido e misto",
+    "7": "Mal passada e quase crua",
+    "8": "Amido de milho, fermento e limão",
+    "9": "Mariscos",
+    "10": "Maranhão",
+    "11": "Minas Gerais",
+    "12": "Leite de coco",
+    "13": "São Paulo",
+    "14": "América do Sul",
+    "15": "Bahia",
+    "16": "Manteiga de cacau",
+    "17": "Amargo leite em pó e o branco sem liquor",
+    "18": "Grécia",
+    "19": "Marinada",
+    "20": "China"
+  }
+]

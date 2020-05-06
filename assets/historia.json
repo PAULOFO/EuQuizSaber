@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) História é: conjunto de conhecimentos relativos ao passado da humanidade e sua evolução, segundo o lugar, a época, o ponto de vista escolhido?",
+    "2": "(02) Em que país surgiu a História como ciência?",
+    "3": "(03) Quantos são os períodos da História da Humanidade?",
+    "4": "(04) Pré-História, Idade Antiga, Idade Média, Idade Moderna e Idade Contemporânea são corretas como períodos da História?",
+    "5": "(05) O marco que estipulou o fim da Idade Antiga para os historiadores foi:",
+    "6": "(06) O marco que determiou o fim da Idade Média foi:",
+    "7": "(07) Feudalismo, As Cruzadas e Peste Negra foram eventos recorrentes da qual Idade da História?",
+    "8": "(08) Idade Moderna acompanha os acontecimentos que se passaram entre?",
+    "9": "(09) Qual evento culminou no fim da Idade Moderna?",
+    "10": "(10) Idade Contemporânea transcorre o período de 1789 até os dias atuias?",
+    "11": "(11) O Renascimento foi um importante movimento de ordem artística, cultural e científica que se deflagrou na passagem da Idade Média para a Moderna?",
+    "12": "(12) Leonardo Da Vinci e Michelangelo eram uma das principais figuras de qual período?",
+    "13": "(13) É correto afirmar que o Iluminismo como Movimento Intelectual surgiu na Europa em qual século?",
+    "14": "(14) O que foi a Revolução Indústrial? ",
+    "15": "(15) Qual país foi o pioneiro no desenvolvimento indústrial?",
+    "16": "(16) Qual foi a primeira guerra do séc. XX e primeiro conflito em estado de guerra total?",
+    "17": "(17) Qual o saldo de pessoas mortas na 1º Guerra Mundial?",
+    "18": "(18) A Segunda Guerra Mundial foi um conflito de proporções globais que aconteceu entre 1939 e 1945:",
+    "19": "(19) Qual o saldo de pessoas mortas na 2º Guerra Mundial?",
+    "20": "(20) É correto afirmar: A Segunda Guerra teve fim oficialmente em 2 de setembro de 1945, quando os japoneses assinaram um documento que reconhecia sua rendição incondicional aos americanos (os nazistas renderam-se aos Aliados em maio de 1945)."
+  },
+  {
+    "1": {
+      "a": "Isso é Verdade",
+      "b": "Isso é Falso",
+      "c": "Nenhuma das opções",
+      "d": "Um pouco correto"
+    },
+    "2": {
+      "a": "Egito",
+      "b": "Grécia Antiga",
+      "c": "Mesopotâmia",
+      "d": "Roma"
+    },
+    "3": {
+      "a": "2 Períodos",
+      "b": "3 Períodos",
+      "c": "4 Períodos",
+      "d": "5 Períodos"
+    },
+    "4": {
+      "a": "Isso é Verdade",
+      "b": "Isso é Falso",
+      "c": "Nenhuma das opções",
+      "d": "Um pouco correto"
+    },
+    "5": {
+      "a": "Queda da Bastilha",
+      "b": "Queda do Império Romano",
+      "c": "Queda de Constantinopla",
+      "d": "Nenhumas das opções"
+    },
+    "6": {
+      "a": "Queda de Constantinopla",
+      "b": "Queda da Bastilha",
+      "c": "Renascimento",
+      "d": "Iluminismo"
+    },
+    "7": {
+      "a": "Idade Antiga",
+      "b": "Idade Média",
+      "c": "Idade Moderna",
+      "d": "Idade Contemporânea"
+    },
+    "8": {
+      "a": "3500 a.C e 476 d.C",
+      "b": "476 d.C. e 1453",
+      "c": "1453 e 1789",
+      "d": "1789 e 1900"
+    },
+    "9": {
+      "a": "Queda da Bastilha",
+      "b": "Revolução Indústrial",
+      "c": "Primeira Guerra Mundial",
+      "d": "Nenhum das opções"
+    },
+    "10": {
+      "a": "Isso é Verdade",
+      "b": "Isso é Falso",
+      "c": "Nenhuma das opções",
+      "d": "Um pouco correto"
+    },
+    "11": {
+      "a": "Isso é Verdade",
+      "b": "Isso é Falso",
+      "c": "Ocorreu na Idade Comtemporãnea",
+      "d": "Nenhuma das opções"
+    },
+    "12": {
+      "a": "Iluminismo",
+      "b": "Revolução Indútrial",
+      "c": "Primeira Guerra Mundial",
+      "d": "Renascimento"
+    },
+    "13": {
+      "a": "XVI",
+      "b": "XVII",
+      "c": "XVIII",
+      "d": "XX"
+    },
+    "14": {
+      "a": "Período de grande avanço Comercial",
+      "b": "Período de grande avanço Maritímo",
+      "c": "Período de grande avanço Rural",
+      "d": "Período de grande avanço Tecnológico"
+    },
+    "15": {
+      "a": "China",
+      "b": "Eua",
+      "c": "Inglaterra",
+      "d": "Japão"
+    },
+    "16": {
+      "a": "Guerra Fria",
+      "b": "1º Guerra Mundial",
+      "c": "2º Guerra Mundial",
+      "d": "Guerra do Iraque"
+    },
+    "17": {
+      "a": "1 milhões de pessoas mortas",
+      "b": "2 milhões de pessoas mortas",
+      "c": "5 milhões de pessoas mortas",
+      "d": "10 milhões de pessoas mortas"
+    },
+    "18": {
+      "a": "Isso é Verdade",
+      "b": "Isso é Falso",
+      "c": "Nenhuma das opções",
+      "d": "Um pouco correto"
+    },
+    "19": {
+      "a": "Quase 40 Milhões de mortos",
+      "b": "Quase 50 Milhões de mortos",
+      "c": "Quase 60 Milhões de mortos",
+      "d": "Quase 70 Milhões de mortos"
+    },
+    "20": {
+      "a": "Verdade",
+      "b": "Falso",
+      "c": "Em parte correto",
+      "d": "Nenhuma das opções"
+    }
+  },
+  {
+    "1": "Isso é Verdade",
+    "2": "Grécia Antiga",
+    "3": "5 Períodos",
+    "4": "Isso é Verdade",
+    "5": "Queda do Império Romano",
+    "6": "Queda de Constantinopla",
+    "7": "Idade Média",
+    "8": "1453 e 1789",
+    "9": "Queda da Bastilha",
+    "10": "Isso é Verdade",
+    "11": "Isso é Verdade",
+    "12": "Renascimento",
+    "13": "XVIII",
+    "14": "Período de grande avanço Tecnológico",
+    "15": "Inglaterra",
+    "16": "1º Guerra Mundial",
+    "17": "10 milhões de pessoas mortas",
+    "18": "Isso é Verdade",
+    "19": "Quase 70 Milhões de mortos",
+    "20": "Verdade"
+  }
+]

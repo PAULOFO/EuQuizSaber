@@ -1,0 +1,168 @@
+[
+    {
+        "1": "(01) Em que país fica Machu Picchu?",
+        "2": "(02) Onde fica o monumento patrimônio da humaniade Taj Mahal?",
+        "3": "(03) Em que cidade dos Estados Unidos fica o Central Park?",
+        "4": "(04) Onde fica o Museu do Louvre?",
+        "5": "(05) Em que cidade do Japão fica o santuário de Meiji Jingu?",
+        "6": "(06) Em qual cidade italiana fica o mais famoso Coliseu?",
+        "7": "(07) O Portão de Brandemburgo fica em que país ?",
+        "8": "(08) Em qual cidade dos Eua fica a famosa ponte Golden Gate?",
+        "9": "(09) Em qual cidade inglesa fica o famoso relógio Big Ben?",
+        "10": "(10) Qual o nome do conhecido arranha-céu de 102 andares de Manhattann, Nova Iorque?",
+        "11": "(11) Em qual cidade grega está a Acrópole de Atenas, a mais famosa do mundo?",
+        "12": "(12) Em que país ficam as Cataratas do Niágara ?",
+        "13": "(13) Sendo o edifício mais alto do mundo, em qual país dos Emirados Árabes está o Burj Khalifa?",
+        "14": "(14) Arco do Triunfo, construído em comemoração às vitórias de Napoleão Bonaparte, fica em que país?",
+        "15": "(15) Em qual país europeu está localizado o Palácio de Versailles?",
+        "16": "(16) Em qual cidade do Brasil ficam às Cataratas do Iguaçu, considerada nº3 das 7 maravilhas da natureza?",
+        "17": "(17) Onde fica o sítio Stonehenge considerado patrimônio da humanidade?",
+        "18": "(18) Mauna Loa o maior vulcão do mundo fica em qual estado dos Eua?",
+        "19": "(19) Com quase meio quilômetro, maior ponte de vidro do mundo fica em qual país?",
+        "20": "(20) Egito, berço das civilizações mais antigas fica em que região da África?"
+    },
+    {
+        "1": {
+            "a": "Colômbia",
+            "b": "México",
+            "c": "Peru",
+            "d": "Brasil"
+        },
+        "2": {
+            "a": "China",
+            "b": "Índia",
+            "c": "Rússia",
+            "d": "Tailândia"
+        },
+        "3": {
+            "a": "Boston",
+            "b": "Chigago",
+            "c": "Nova Iorque",
+            "d": "Miami"
+        },
+        "4": {
+            "a": "Egito",
+            "b": "Espanha",
+            "c": "França",
+            "d": "Argentina"
+        },
+        "5": {
+            "a": "Fukushima",
+            "b": "Quioto",
+            "c": "Nagasaki",
+            "d": "Tóquio"
+        },
+        "6": {
+            "a": "Bolonha",
+            "b": "Comuna",
+            "c": "Roma",
+            "d": "Veneza"
+        },
+        "7": {
+            "a": "Alemanha",
+            "b": "Irlanda",
+            "c": "Itália",
+            "d": "Polônia"
+        },
+        "8": {
+            "a": "Anniston",
+            "b": "Nova Jersey",
+            "c": "São Francisco",
+            "d": "Tucson"
+        },
+        "9": {
+            "a": "Bristol",
+            "b": "Birmingham",
+            "c": "Londres",
+            "d": "Oxford"
+        },
+        "10": {
+            "a": "Empire State Building",
+            "b": "Home Insurance Building",
+            "c": "One World Trade Center",
+            "d": "Trump International"
+        },
+        "11": {
+            "a": "Atenas",
+            "b": "Creta",
+            "c": "Esparta",
+            "d": "Troia"
+        },
+        "12": {
+            "a": "Brasil",
+            "b": "Canadá",
+            "c": "Equador",
+            "d": "Peru"
+        },
+        "13": {
+            "a": "Abu Dhabi",
+            "b": "Dubai",
+            "c": "Ras al-Khaimah",
+            "d": "Xarja"
+        },
+        "14": {
+            "a": "Argentina",
+            "b": "Alemanha",
+            "c": "Escócia",
+            "d": "França"
+        },
+        "15": {
+            "a": "França",
+            "b": "Estados Unidos",
+            "c": "Holanda",
+            "d": "Suiça"
+        },
+        "16": {
+            "a": "Curitiba - PR",
+            "b": "Foz do Iguaçu - PR",
+            "c": "Recife - PE",
+            "d": "Salvador - BA"
+        },
+        "17": {
+            "a": "Austrália",
+            "b": "China",
+            "c": "Coréia do Sul",
+            "d": "Londres"
+        },
+        "18": {
+            "a": "Alasca",
+            "b": "Califórnia",
+            "c": "Havaí",
+            "d": "Texas"
+        },
+        "19": {
+            "a": "China",
+            "b": "Índia",
+            "c": "Japão",
+            "d": "Coreia do Sul"
+        },
+        "20": {
+            "a": "Norte",
+            "b": "Sul",
+            "c": "Leste",
+            "d": "Oeste"
+        }
+    },
+    {
+        "1": "Peru",
+        "2": "Índia",
+        "3": "Nova Iorque",
+        "4": "França",
+        "5": "Tóquio",
+        "6": "Roma",
+        "7": "Alemanha",
+        "8": "São Francisco",
+        "9": "Londres",
+        "10": "Empire State Building",
+        "11": "Atenas",
+        "12": "Canadá",
+        "13": "Dubai",
+        "14": "França",
+        "15": "França",
+        "16": "Foz do Iguaçu - PR",
+        "17": "Londres",
+        "18": "Havaí",
+        "19": "China",
+        "20": "Norte"
+    }
+]

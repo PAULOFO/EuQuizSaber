@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) Tecnologia é um produto da ciência e da engenharia que envolve um conjunto de instrumentos, métodos e técnicas que visam a resolução de problemas. É uma aplicação prática do conhecimento científico em diversas áreas de pesquisa?",
+    "2": "(02) Qual é o nome do sistema operacional da Microsoft?",
+    "3": "(03) Em que ano foi criada a primeira versão do Windows?",
+    "4": "(04) Qual a marca fabrica o MacBook Pro?",
+    "5": "(05) Em que ano foi lançado o iPhone 11 no Brasil?",
+    "6": "(06) O iOS é o sistema da Apple em quais dispositivos??",
+    "7": "(07) Em que ano a Samsung lançou o Galaxy S5 no Brasil?",
+    "8": "(08) Qual sistema está presente na maioria dos SmartPhones presentes no mundo?",
+    "9": "(09) Qual Smartphone da Nokia tem em sensor fotográfico a maior quantidade de MegaPixels?",
+    "10": "(10) Quantos núcleos possuem um processador Octa-Core?",
+    "11": "(11) Qual marca fabrica o SmartPhone Moto X?",
+    "12": "(12) Qual foi o ano em que a Apple entrou no mercado de ações?",
+    "13": "(13) Quais pessoas criaram o primeiro computador da Apple?",
+    "14": "(14) Qual é o nome do primeiro computador da Apple?",
+    "15": "(15) Qual foi o produto que realmente salvou a Apple da falência?",
+    "16": "(16) Essa tecnologia consiste em criar um ambiente totalmente gerado pelo computador. O usuário pode interagir com esse ambiente e ficar imerso nele. Ou seja, tudo que ele vê ali não é real.” A frase acima descreve:",
+    "17": "(17) Em que ano a Inteligência Artificial passou a ser considerada um campo de estudo?",
+    "18": "(18) Que nome se dá as tecnologias que são acopladas a roupas e peças diversas de vestuário?",
+    "19": "(19) Qual das tecnologias exponenciais aparece no jogo Pokémon Go?",
+    "20": "(20) Complete: Esses óculos são utilizados para imersão digital por meio da..."
+  },
+  {
+    "1": {
+      "a": "Verdadeiro",
+      "b": "Falso",
+      "c": "Nenhuma das opções",
+      "d": "Não existe"
+    },
+    "2": {
+      "a": "Linux",
+      "b": "OS X",
+      "c": "Windows",
+      "d": "WinOS"
+    },
+    "3": {
+      "a": "14 de Junho de 1994",
+      "b": "16 de Julho de 1982",
+      "c": "26 Outubro de 1996",
+      "d": "20 de Novembro de 1985"
+    },
+    "4": {
+      "a": "Apple",
+      "b": "LG",
+      "c": "Microsoft",
+      "d": "Samsung"
+    },
+    "5": {
+      "a": "2020",
+      "b": "2019",
+      "c": "2018",
+      "d": "2017"
+    },
+    "6": {
+      "a": "Apple Watch, iPhone e iPod Shuffle",
+      "b": "iPod Shuffle, Apple Watch e Apple TV",
+      "c": "iMac, iPad e iPhone",
+      "d": "iPhone, iPad e iPod Touch"
+    },
+    "7": {
+      "a": "2011",
+      "b": "2006",
+      "c": "2013",
+      "d": "2014"
+    },
+    "8": {
+      "a": "Android",
+      "b": "iOS",
+      "c": "Windows Phone",
+      "d": "Windows"
+    },
+    "9": {
+      "a": "Lumia 530",
+      "b": "Lumia 630",
+      "c": "Lumia 1020",
+      "d": "Lumia 1520"
+    },
+    "10": {
+      "a": "2 Núcleos",
+      "b": "7 Núcleos",
+      "c": "8 Núcleos",
+      "d": "12 Núcleos"
+    },
+    "11": {
+      "a": "LG",
+      "b": "1984",
+      "c": "Samsung",
+      "d": "Nenhuma das três"
+    },
+    "12": {
+      "a": "1982",
+      "b": "1985",
+      "c": "1986",
+      "d": "1988"
+    },
+    "13": {
+      "a": "Steve Jobs e Steve Wozniack",
+      "b": "Steve Jobs, Woz e Robert",
+      "c": "Somente Jobs",
+      "d": "Somente Wozniack"
+    },
+    "14": {
+      "a": "Apple I",
+      "b": "Apple II",
+      "c": "Apple Lisa",
+      "d": "Apple Macintosh"
+    },
+    "15": {
+      "a": "Apple iMac",
+      "b": "Apple Newton",
+      "c": "Apple iPod",
+      "d": "Apple iPhone"
+    },
+    "16": {
+      "a": "Realidade Aumentada",
+      "b": "Internet das Coisas",
+      "c": "Inteligência Artificial",
+      "d": "Realidade Virtual"
+    },
+    "17": {
+      "a": "1894",
+      "b": "1956",
+      "c": "1972",
+      "d": "1999"
+    },
+    "18": {
+      "a": "Biotecnologia",
+      "b": "Internet das Coisas",
+      "c": "Vestíveis(Wearable)",
+      "d": "Nenhuma alternativa"
+    },
+    "19": {
+      "a": "Internet das Coisas",
+      "b": "Inteligência Artificial",
+      "c": "Realidade Aumentada",
+      "d": "Nenhhuma das opções"
+    },
+    "20": {
+      "a": "Realidade Aumentada",
+      "b": "Realidade Virtual",
+      "c": "Inteligência Artificial",
+      "d": "Visão Raio X"
+    }
+  },
+  {
+    "1": "Verdadeiro",
+    "2": "Windows",
+    "3": "20 de Novembro de 1985",
+    "4": "Apple",
+    "5": "2019",
+    "6": "iPhone, iPad e iPod Touch",
+    "7": "2013",
+    "8": "Android",
+    "9": "Lumia 1020",
+    "10": "8 Núcleos",
+    "11": "Nenhuma das três",
+    "12": "1985",
+    "13": "Steve Jobs e Steve Wozniack",
+    "14": "Apple I",
+    "15": "Apple iPod",
+    "16": "Realidade Virtual",
+    "17": "1956",
+    "18": "Vestíveis(Wearable)",
+    "19": "Realidade Aumentada",
+    "20": "Realidade Virtual"
+  }
+]

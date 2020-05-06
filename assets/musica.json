@@ -1,0 +1,169 @@
+[
+  {
+    "1": "(01) Música é a combinação de ritmo, harmonia e melodia para expressar os afetos da alma:",
+    "2": "(02) Melodia é uma sucessão coerente de sons e silêncios, que se desenvolvem em uma sequência linear?",
+    "3": "(03) Responda: Ritmo musical é:",
+    "4": "(04) Segundo relato bíblico no livro de Gênesis 4.21: quem foi o proeminente a tocar harpa e orgão?",
+    "5": "(05) É correto afirmar que a Música Clássica, nos primórdios do Séc. IX foi feita com base nas tradições da música Sacra Cristã Ocidental?",
+    "6": "(06) As orquestras são conhecidas pela reprodução de qual tipo de música?",
+    "7": "(07) Qual o principal instrumento dentro de uma orquestra?",
+    "8": "(08) Qual destes compositores \"fundou\" a Música do período Romântico?",
+    "9": "(09) Qual das sinfonias de Beethoven seria dedicada a Napoleão Bonaparte, mas Beethoven desistiu da ideia?",
+    "10": "(10) Qual é o nome do mais famoso oratório escrito por G. F. Händel?(peça de qual é extraída \"Hallelujah\")?",
+    "11": "(11) Dos instrumentos abaixo, para qual J. S. Bach nunca compôs nenhuma música?",
+    "12": "(12) Qual dos compositores abaixo ficou surdo?",
+    "13": "(13) Beethoven foi um grande compositor do período Romântico, porém compôs apenas uma ópera, que ópera é essa?",
+    "14": "(14) Qual destes compositores é considerado o mais virtuoso do violino?",
+    "15": "(15) Giuseppe Verdi é conhecido especialmente por suas:",
+    "16": "(16) \"Bachianas Brasileiras\", de Villa-Lobos, é uma homenagem a qual compositor?",
+    "17": "(17) Desta lista, qual é o compositor mais recente?",
+    "18": "(18) Leonid Kogan foi um dos maiores violinistas do séc. XX, em qual país ele nasceu?",
+    "19": "(19) Qual o instrumento músical mais popular do mundo contemporâneo?",
+    "20": "(20) Qual banda vendeu mais discos em toda história?"
+  },
+  {
+    "1": {
+      "a": "Verdadeiro",
+      "b": "Falso",
+      "c": "Em parte correto",
+      "d": "Nenhuma das opções"
+    },
+    "2": {
+      "a": "Verdadeiro",
+      "b": "Falso",
+      "c": "Nenhuma das opções",
+      "d": "Melodia é somente voz humana"
+    },
+    "3": {
+      "a": "Movimento desodernado de sons",
+      "b": "Movimento coordenado de sons",
+      "c": "Descordância de sons",
+      "d": "Concordância ou combinação de sons"
+    },
+    "4": {
+      "a": "Adão",
+      "b": "Eva",
+      "c": "Ada",
+      "d": "Jubal"
+    },
+    "5": {
+      "a": "Não, foi feita apenas para os reis",
+      "b": "Não, foi feita apenas por acaso",
+      "c": "Não, música Sacra Cristã Oriental",
+      "d": "Sim, música Sacra Cristã Ocidental"
+    },
+    "6": {
+      "a": "Músicas Clássicas",
+      "b": "Músicas de canto",
+      "c": "Músicas atuais",
+      "d": "Nenhumas das opções"
+    },
+    "7": {
+      "a": "Violinos",
+      "b": "Violas",
+      "c": "Violoncelos",
+      "d": "Contrabaixos"
+    },
+    "8": {
+      "a": "Franz Schubert",
+      "b": "J. S. Bach",
+      "c": "L.V. Beethoven",
+      "d": "W. A. Mozart"
+    },
+    "9": {
+      "a": "3° Sinfonia (Eroica)",
+      "b": "5° Sinfonia (Do destino",
+      "c": "6° Sinfonia (Pastoral)",
+      "d": "9° Sinfonia (Coral)"
+    },
+    "10": {
+      "a": "A vida do salvador",
+      "b": "Menino Jesus",
+      "c": "O messias",
+      "d": "O salvador"
+    },
+    "11": {
+      "a": "Flauta",
+      "b": "Violoncelo",
+      "c": "Piano",
+      "d": "Violino"
+    },
+    "12": {
+      "a": "G. F. Händel",
+      "b": "J. S. Bach",
+      "c": "L. V. Beethoven",
+      "d": "W. A. Mozart"
+    },
+    "13": {
+      "a": "Dom Giovanni",
+      "b": "Fidelio",
+      "c": "O barbeiro de sevilha",
+      "d": "O rapto do serralho"
+    },
+    "14": {
+      "a": "Frédéric Chopin",
+      "b": "Franz Schubert",
+      "c": "Luigi Boccherinni",
+      "d": "Nicolo Paganini"
+    },
+    "15": {
+      "a": "Cantatas Sacras",
+      "b": "Óperas",
+      "c": "Sonatas para piano",
+      "d": "Sonatas para violinos"
+    },
+    "16": {
+      "a": "J. S. Bach",
+      "b": "L. V. Beethoven",
+      "c": "Paganini",
+      "d": "W. A. Mozart"
+    },
+    "17": {
+      "a": "Antônio Carlos Gomes",
+      "b": "Gershwin",
+      "c": "L. V. Beethoven",
+      "d": "Richard Wagner"
+    },
+    "18": {
+      "a": "França",
+      "b": "Ucrânia",
+      "c": "Londres",
+      "d": "Polônia"
+    },
+    "19": {
+      "a": "Flauta",
+      "b": "Guitarra",
+      "c": "Violino",
+      "d": "Violão"
+
+    },
+    "20": {
+      "a": "The Beatles",
+      "b": "Garth Brooks",
+      "c": "Elvis Presley",
+      "d": "Led Zeppelin"
+    }
+  },
+  {
+    "1": "Verdadeiro",
+    "2": "Verdadeiro",
+    "3": "Movimento coordenado de sons",
+    "4": "Jubal",
+    "5": "Sim, música Sacra Cristã Ocidental",
+    "6": "Músicas Clássicas",
+    "7": "Violinos",
+    "8": "L.V. Beethoven",
+    "9": "3° Sinfonia (Eroica)",
+    "10": "O messias",
+    "11": "Piano",
+    "12": "L. V. Beethoven",
+    "13": "Fidelio",
+    "14": "Nicolo Paganini",
+    "15": "Óperas",
+    "16": "J. S. Bach",
+    "17": "Gershwin",
+    "18": "Ucrânia",
+    "19": "Violão",
+    "20": "The Beatles"
+  }
+]

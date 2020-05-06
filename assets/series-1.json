@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) Qual o nome do criador da série The Witcher?",
+    "2": "(02) The Witcher da Netflix é baseada da série de livros escrito por qual autor?",
+    "3": "(03) Qual nome o mago Stregobor usa ao se enconder na torre de Hinde, no primeiro episódio?",
+    "4": "(04) Qual o nome da égua de Geralt?",
+    "5": "(05) De onde Calanthe era rainha? E como era conhecida?",
+    "6": "(06) Qual o nome dos pais de Cirilla?",
+    "7": "(07) O que Geralt estava tentando encontrar em um rio no episódio 5?",
+    "8": "(08) Qual retribuição Geralt escolhe por ter salvo Dany?",
+    "9": "(09) Qual o nome do amigo elfo de Ciri?",
+    "10": "(10) Qual nome Ciri usava para não ser descoberta?",
+    "11": "(11) Qual o nome da garota que levou Geralt até Stregobor?",
+    "12": "(12) Por quantos Marcos Yennefer é vendida no primeiro episódio?",
+    "13": "(13) \"Não existe uma pessoa viva que não se olhe no espelho e não veja alguma deformidade.\"\nQuem disse essa frase?",
+    "14": "(14) Jaskier o cantor, é interpretado por qual ator?",
+    "15": "(15) Quantos episódios tem a 1º temporada The Wichter da Netflix?",
+    "16": "(16) The Witcher ficou mundialmente conhecido pelo seus jogos de video-game e PC?",
+    "17": "(17) Geralt de Rívia é famoso por receber recompensas por caçar:",
+    "18": "(18) Além de Geralt de Rívia quais os outros 2 principais personagens de The Witcher?",
+    "19": "(19) Em que ano estreou a série The Witcher na Netflix?",
+    "20": "(20) Cirilla é a princesa de:"
+  },
+  {
+    "1": {
+      "a": "Andrzej Sapkowski",
+      "b": "Damien Monnier",
+      "c": "Lauren Schmidt Hissrich",
+      "d": "Michal Dobrowolski"
+    },
+    "2": {
+      "a": "Andrzej Sapkowski",
+      "b": "Damien Monnier",
+      "c": "Lauren Schmidt Hissrich",
+      "d": "Michal Dobrowolski"
+    },
+    "3": {
+      "a": "Iron",
+      "b": "Irion",
+      "c": "Hirion",
+      "d": "Híron"
+    },
+    "4": {
+      "a": "Ploka",
+      "b": "Plotka",
+      "c": "Plotika",
+      "d": "Renfri"
+    },
+    "5": {
+      "a": "Cintra, Leoa de Cintra",
+      "b": "Nilfgaard, Leoa de Nilfgaard",
+      "c": "Marnadal, Calanthe de Marnadal",
+      "d": "Sodden, Leoa de Sodden"
+    },
+    "6": {
+      "a": "Dany e Pavetta",
+      "b": "Duny e Pavetta",
+      "c": "Dunny e Pavetta",
+      "d": "Eist e Calanthe"
+    },
+    "7": {
+      "a": "Uma rede",
+      "b": "Um Djinn",
+      "c": "Um crocodilo",
+      "d": "Um artefato"
+    },
+    "8": {
+      "a": "Dinheiro",
+      "b": "Um animal",
+      "c": "Uma mulher",
+      "d": "A Lei da Surpresa"
+    },
+    "9": {
+      "a": "Dara",
+      "b": "Duny",
+      "c": "Dandelion",
+      "d": "Jaskier"
+    },
+    "10": {
+      "a": "Kara",
+      "b": "Fler",
+      "c": "Fiona",
+      "d": "Fiora"
+    },
+    "11": {
+      "a": "Maria",
+      "b": "Marilka",
+      "c": "Jil",
+      "d": "Renfri"
+    },
+    "12": {
+      "a": "4 Marcos",
+      "b": "8 Marcos",
+      "c": "20 Marcos",
+      "d": "40 Marcos"
+    },
+    "13": {
+      "a": "Geralt de Rívia",
+      "b": "Triss Merigold",
+      "c": "Tissaia de Vries",
+      "d": "Yennefer de Vngerberg"
+    },
+    "14": {
+      "a": "Henry Cavill",
+      "b": "Joy Batey",
+      "c": "Joey Batey",
+      "d": "Joey Battey"
+    },
+    "15": {
+      "a": "6 episódios",
+      "b": "7 episódios",
+      "c": "8 episódios",
+      "d": "9 episódios"
+    },
+    "16": {
+      "a": "Verdadeiro",
+      "b": "Falso",
+      "c": "Pelos livros",
+      "d": "Nenhuma das opções"
+    },
+    "17": {
+      "a": "Animais",
+      "b": "Monstros",
+      "c": "Humanos",
+      "d": "Elfos"
+    },
+    "18": {
+      "a": "Ciri e Yennefer",
+      "b": "Ciri e Dandelion",
+      "c": "Renfri e Francesca",
+      "d": "Tissaia e Ciri"
+    },
+    "19": {
+      "a": "2017",
+      "b": "2018",
+      "c": "2019",
+      "d": "2020"
+    },
+    "20": {
+      "a": "Cintra",
+      "b": "Rívia",
+      "c": "Nilfgaard",
+      "d": "Sodden"
+    }
+  },
+  {
+    "1": "Lauren Schmidt Hissrich",
+    "2": "Andrzej Sapkowski",
+    "3": "Irion",
+    "4": "Plotka",
+    "5": "Cintra, Leoa de Cintra",
+    "6": "Dany e Pavetta",
+    "7": "Um Djinn",
+    "8": "A Lei da Surpresa",
+    "9": "Dara",
+    "10": "Fiona",
+    "11": "Marilka",
+    "12": "4 Marcos",
+    "13": "Tissaia de Vries",
+    "14": "Joey Batey",
+    "15": "8 episódios",
+    "16": "Verdadeiro",
+    "17": "Monstros",
+    "18": "Ciri e Yennefer",
+    "19": "2019",
+    "20": "Cintra"
+  }
+]

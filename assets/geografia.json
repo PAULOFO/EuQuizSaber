@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) O que é Geografia?",
+    "2": "(02) Qual é o maior oceano do mundo?",
+    "3": "(03) Qual é o país mais populoso do mundo?",
+    "4": "(04) Qual o maior continente do mundo?",
+    "5": "(05) Qual é o maior país do mundo?",
+    "6": "(06) Dentre os rios qual o maior do planeta?",
+    "7": "(07) Qual é o segundo maior pico do mundo?",
+    "8": "(08) Qual a segunda cidade mais populosa da Romênia?",
+    "9": "(09) Qual é o terceiro maior país do mundo em extensão territorial?",
+    "10": "(10) Qual a importância da Geografia?",
+    "11": "(11) Qual o nome dos penedos, que são a porção de terra do Brasil mais próxima da África, localizados no Oceano Atlântico?",
+    "12": "(12) Qual a capital do segundo maior estado americano em extensão territorial?",
+    "13": "(13) Qual estado americano tem como capital a famosa cidade do desenho animado Os Simpsons?",
+    "14": "(14) Qual a segunda maior cidade em extensão territorial do Brasil?",
+    "15": "(15) A menor cidade do mundo se chama?",
+    "16": "(16) Onde fica o Atol de Bikini?",
+    "17": "(17) Qual é a primeira fase do capitalismo?",
+    "18": "(18) Quais países fazem parte do bloco econômico NAFTA?",
+    "19": "(19) Qual é o principal combustível fossil da 1º Revolução Indústrial?",
+    "20": "(20) A Guerra Fria foi um conflito entre:"
+  },
+  {
+    "1": {
+      "a": "É a ciência que estuda o espaço geográfico",
+      "b": "É a ciência que estuda o espaço sideral",
+      "c": "É a ciência que estuda o espaço aereo",
+      "d": "Nenhuma das opções"
+    },
+    "2": {
+      "a": "Oceano Atlântico",
+      "b": "Oceano Pacífico",
+      "c": "Oceano Pacífico",
+      "d": "Nenhuma das opções"
+    },
+    "3": {
+      "a": "Brasil",
+      "b": "China",
+      "c": "Índia",
+      "d": "Rússia"
+    },
+    "4": {
+      "a": "Ásia",
+      "b": "América do sul",
+      "c": "África",
+      "d": "Europa"
+    },
+    "5": {
+      "a": "Brasil",
+      "b": "China",
+      "c": "Índia",
+      "d": "Rússia"
+    },
+    "6": {
+      "a": "Rio Amazonas",
+      "b": "Rio Amarelo",
+      "c": "Rio Nilo",
+      "d": "Rio Mississípe"
+    },
+    "7": {
+      "a": "Aconcá",
+      "b": "Everest",
+      "c": "K2",
+      "d": "Kilimanjaro"
+    },
+    "8": {
+      "a": "Bucareste",
+      "b": "Cluj-Napoca",
+      "c": "Iasi",
+      "d": "Timisoara"
+    },
+    "9": {
+      "a": "Brasil",
+      "b": "Canadá",
+      "c": "China",
+      "d": "Estados Unidos"
+    },
+    "10": {
+      "a": "Necessidade de conhecer o espaço celeste",
+      "b": "Necessidade de conhecer o espaço fisíco",
+      "c": "Necessidade de conhecer o espaço",
+      "d": "Nenhuma das três opções citadas aqui"
+    },
+    "11": {
+      "a": "São Carlos e São Pedro",
+      "b": "São Paulo e São Carlos",
+      "c": "São Paulo e São Francisco",
+      "d": "São Pedro e São Paulo"
+    },
+    "12": {
+      "a": "Austin",
+      "b": "Juneau",
+      "c": "Nova Iórque",
+      "d": "Sacramento"
+    },
+    "13": {
+      "a": "Delaware",
+      "b": "Ilinóis",
+      "c": "Nova Iórque",
+      "d": "Massachusetts"
+    },
+    "14": {
+      "a": "Altamira",
+      "b": "Barcelos",
+      "c": "São Félix do Xingu",
+      "d": "São Gabriel da Cachoeira"
+    },
+    "15": {
+      "a": "Cuatro",
+      "b": "Does",
+      "c": "Hum",
+      "d": "Sinco"
+    },
+    "16": {
+      "a": "Austrália",
+      "b": "Ilhas Christmas",
+      "c": "Ilhas Marshall",
+      "d": "Nova Zelândia"
+    },
+    "17": {
+      "a": "2 Guerra Mundial",
+      "b":  "Guerra Fria",
+      "c": "Nova Ordem",
+      "d": "Revolução indústrial"
+    },
+    "18": {
+      "a": "Alemanha, Áustria e Espanha",
+      "b": "Angola, Congo e Zâmbia",
+      "c": "Austrália, México e Canadá",
+      "d": "México, Estados Unidos e Canadá"
+    },
+    "19": {
+      "a": "Carvão Mineral",
+      "b": "Gás Natural",
+      "c": "Óleo Diesel",
+      "d": "Petróleo"
+    },
+    "20": {
+      "a": "Estados Unidos e Alemanha",
+      "b": "Estados Unidos e União Soviética",
+      "c": "França e Brasil",
+      "d": "União Soviética e Itália"
+    }
+  },
+  {
+    "1": "É a ciência que estuda o espaço geográfico",
+    "2": "Oceano Pacífico",
+    "3": "China",
+    "4": "Ásia",
+    "5": "Rússia",
+    "6": "Rio Nilo",
+    "7": "K2",
+    "8": "Cluj-Napoca",
+    "9": "China",
+    "10": "Necessidade de conhecer o espaço geográfico",
+    "11": "São Pedro e São Paulo",
+    "12": "Austin",
+    "13": "Massachusetts",
+    "14": "Barcelos",
+    "15": "Hum",
+    "16": "Ilhas Marshall",
+    "17": "Revolução indústrial",
+    "18": "México, Estados Unidos e Canadá",
+    "19": "Carvão Mineral",
+    "20": "Estados Unidos e União Soviética"
+  }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "1": "(01) No desenho animado Homer Simpson trabalha aonde?",
+        "2": "(02) Qual o nome da cidade onde os Simpsons moram?",
+        "3": "(03) Qual o nome do conhecido palhaço de O Simpsons?",
+        "4": "(04) Em Simpsons Lisa Simpson era um garota:",
+        "5": "(05) No desenho animado, Bart Simpson era conhecido por ser:",
+        "6": "(06) Qual o nome do Pica-Pau em inglês?",
+        "7": "(07) Qual é o nome da namorada do Pica-Pau?",
+        "8": "(08) Como se chamam os sobrinhos do Pica-Pau?",
+        "9": "(09) No desenho He-Man o pai de He-man e She-Ra se chamava:",
+        "10": "(10) Em um episódio He-Man destrói com as mãos:",
+        "11": "(11) He-man teve quantos episódios?",
+        "12": "(12)Em que ano estreou no Brasil o desenho Caverna do Dragão?",
+        "13": "(13) Quem é líder do grupo de jovens do densenho Caverna do Dragão?",
+        "14": "(14) Em que foi baseado o desenho Caverna do Dragão?",
+        "15": "(15) Não participou da produção do desenho Caverna do Dragão?",
+        "16": "(16) Quantas temporadas durou o desenho Caverna do Dragão?",
+        "17": "(17) Ele foi criado em 1939 por Seymour Reit e Joe Oriolo para um livro infantil, ele gosta de fazer novos amigos mas assusta todos eles:",
+        "18": "(18) Ele é um gato de desenho animado, criado na era do cinema mudo em 1919, é um gato bem divertido:",
+        "19": "(19) Esse desenho foi produzido por Hanna-Barbera, e criado no ano de 1969.\nEle é um cachorro muito medroso e guloso e seu fiel amigo inseparável magricelo:",
+        "20": "(20) Eles brigam como cão e gato mas na verdade são gato e rato, um sempre tentando pegar o outro, quem são eles?"
+    },
+    {
+        "1": {
+            "a": "Era desempregado",
+            "b": "Fábrica de cerveja Duff",
+            "c": "Usina Nuclear de Springfield",
+            "d": "Bar do Moe"
+        },
+        "2": {
+            "a": "Califórnia",
+            "b": "São Francisco",
+            "c": "Nova Iorque",
+            "d": "Springfield"
+        },
+        "3": {
+            "a": "Duffman",
+            "b": "Moe",
+            "c": "Krusty",
+            "d": "Bart"
+        },
+        "4": {
+            "a": "Gamer",
+            "b": "Estudiosa",
+            "c": "Rica",
+            "d": "Vagarosa"
+        },
+        "5": {
+            "a": "Bagunceiro e atrevido",
+            "b": "Bonito e rico",
+            "c": "Esperto e obediente",
+            "d": "Jogador"
+        },
+        "6": {
+            "a": "Woody Woodipecky",
+            "b": "Woody Wodypecky",
+            "c": "Woody Woodpecker",
+            "d": "Woody Woodypeckery"
+        },
+        "7": {
+            "a": "Winny",
+            "b": "Winnie",
+            "c": "Winne",
+            "d": "Wynni"
+        },
+        "8": {
+            "a": "Júnior e Pipa",
+            "b": "Pedrinho e Maria",
+            "c": "Toquinho e Lasquita",
+            "d": "Zeca e Larinha"
+        },
+        "9": {
+            "a": "Esqueleto",
+            "b": "Hordak",
+            "c": "Mentor",
+            "d": "Randor"
+        },
+        "10": {
+            "a": "Uma casa",
+            "b": "Uma Esmeralda",
+            "c": "Um Diamante",
+            "d": "Um vulcão"
+        },
+        "11": {
+            "a": "124",
+            "b": "130",
+            "c": "140",
+            "d": "201"
+        },
+        "12": {
+            "a": "1990",
+            "b": "1986",
+            "c": "1982",
+            "d": "1990"
+        },
+        "13": {
+            "a": "Presto",
+            "b": "Hank",
+            "c": "Eric",
+            "d": "Bobby"
+        },
+        "14": {
+            "a": "Jogo de video-game",
+            "b": "Série de TV",
+            "c": "RPG",
+            "d": "Livro"
+        },
+        "15": {
+            "a": "Marvel Productions",
+            "b": "TSR",
+            "c": "Toei Animation",
+            "d": "Hanna-Barbera"
+        },
+        "16": {
+            "a": "01 Temporada",
+            "b": "02 Temporadas",
+            "c": "03 Temporadas",
+            "d": "04 Temporadas"
+        },
+        "17": {
+            "a": "Gato Félix",
+            "b": "Gasparzinho",
+            "c": "Mister Magoo",
+            "d": "Scooby Doo"
+        },
+        "18": {
+            "a": "Frajola",
+            "b": "Manda Chuva",
+            "c": "Gato Félix",
+            "d": "Garfield"
+        },
+        "19": {
+            "a": "Scooby Doo",
+            "b": "Os Jetsons",
+            "c": "Capitão Planeta",
+            "d": "Zé Colmeia e Catatau"
+        },
+        "20": {
+            "a": "Papa Léguas e Coyote",
+            "b": "Frajola e Piu Piu",
+            "c": "Tom e Jerry",
+            "d": "Luluzinha e Bolinha"
+        }
+    },
+    {
+        "1": "Usina Nuclear de Springfield",
+        "2": "Springfield",
+        "3": "Krusty",
+        "4": "Estudiosa",
+        "5": "Bagunceiro e atrevido",
+        "6": "Woody Woodpecker",
+        "7": "Winnie",
+        "8": "Toquinho e Lasquita",
+        "9": "Randor",
+        "10": "Um Diamante",
+        "11": "130",
+        "12": "1986",
+        "13": "Hank",
+        "14": "RPG",
+        "15": "Hanna-Barbera",
+        "16": "03 Temporadas",
+        "17": "Gasparzinho",
+        "18": "Gato Félix",
+        "19": "Scooby Doo",
+        "20": "Tom e Jerry"
+    }
+]

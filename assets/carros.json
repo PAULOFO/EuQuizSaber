@@ -1,0 +1,170 @@
+[
+  {
+    "1": "(01) Quando foi criado o primeiro automóvel com motor a vapor?",
+    "2": "(02) Quando foi criado o primeiro automóvel com motor a combustão interna a gás combustível?",
+    "3": "(03) Qual ano é considerado o ano do nascimento do automóvel moderno?",
+    "4": "(04) Qual o veículo mais vendido da história?",
+    "5": "(05) Qual o carro esportivo mais vendido no mundo?",
+    "6": "(06) Entre os SUVS qual o mais vendido no mundo?",
+    "7": "(07) Qual o carro italino mais vendido da história?",
+    "8": "(08) Qual desses é um SUV da Volkswagen?",
+    "9": "(09) Qual desses é uma pickup da Volkswagen?",
+    "10": "(10) O que significa (S F) no símbolo da Ferrari?",
+    "11": "(11) Quem fundou a Ferrari?",
+    "12": "(12) Qual foi o carro da Chevrolet mais vendido no ano de 2018 no Brasil?",
+    "13": "(13) Qual é o concorrente do Camaro SS?",
+    "14": "(14) Em quantos segundos o Camaro SS chega ao 100 KM/H? ",
+    "15": "(15) Qual destes é um SUV da Chevrolet?",
+    "16": "(16) Qual empresa adquiriu a Lamborguini em 1998?",
+    "17": "(17) Quem fundou a Lamborguini?",
+    "18": "(18) Qual o primeiro sedan de luxo da Porsche de quatro portas?",
+    "19": "(19) Qual o BMW mais vendido da história?",
+    "20": "(20) Qual marca de carros tem a melhor tração integral do mundo?"
+  },
+  {
+    "1": {
+      "a": "1769",
+      "b": "1799",
+      "c": "1811",
+      "d": "1867"
+    },
+    "2": {
+      "a": "1811",
+      "b": "1821",
+      "c": "1807",
+      "d": "1817"
+    },
+    "3": {
+      "a": "1884",
+      "b": "1885",
+      "c": "1886",
+      "d": "1887"
+    },
+    "4": {
+      "a": "Ford Model T",
+      "b": "Volkswagen Fusca",
+      "c": "Honda Civic",
+      "d": "Toyota Corolla"
+    },
+    "5": {
+      "a": "Ferrari",
+      "b": "Lamborguini",
+      "c": "Ferrari",
+      "d": "Mustang"
+    },
+    "6": {
+      "a": "Chevrolet Blazer",
+      "b": "Honda CR-V",
+      "c": "Toyota RAV4",
+      "d": "Nenhuma das alternativas"
+    },
+    "7": {
+      "a": "Fiat 147",
+      "b": "Fiat 124",
+      "c": "Fiat Uno",
+      "d": "Nenhuma das alternativas"
+    },
+    "8": {
+      "a": "Gol",
+      "b": "Jetta",
+      "c": "Voyage",
+      "d": "Tiguan"
+    },
+    "9": {
+      "a": "Brasilia",
+      "b": "Bora",
+      "c": "Virtus",
+      "d": "Amarok"
+    },
+    "10": {
+      "a": "Super Fast(Super Rápido)",
+      "b": "Super Famosa",
+      "c": "Scuderia Ferrari",
+      "d": "Sempre Ferrari"
+    },
+    "11": {
+      "a": "Breno Ferrari",
+      "b": "Enzo Ferrari",
+      "c": "Evandro Ferrari",
+      "d": "Ernando Ferrari"
+    },
+    "12": {
+      "a": "Camaro",
+      "b": "Cruze",
+      "c": "Ônix",
+      "d": "Prisma"
+    },
+    "13": {
+      "a": "Audi TT RS",
+      "b": "Dodge Charger",
+      "c": "Ford Mustang GT",
+      "d": "Porsche Carrera"
+    },
+    "14": {
+      "a": "4,2",
+      "b": "5,0",
+      "c": "5,2",
+      "d": "6,0"
+    },
+    "15": {
+      "a": "Cruze",
+      "b": "Õnix",
+      "c": "Tracker",
+      "d": "Vectra"
+    },
+    "16": {
+      "a": "Audi",
+      "b": "Daimler/Mercedez-Benz",
+      "c": "BMW",
+      "d": "Ford"
+    },
+    "17": {
+      "a": "Aberto Laborguini",
+      "b": "D'Angelo Lamborguini",
+      "c": "Ferrucio Lamborguini",
+      "d": "Patrizio Lamborguini"
+    },
+    "18": {
+      "a": "Porsche Panamera",
+      "b": "Porsche 911 GT3",
+      "c": "Porsche Macan",
+      "d": "Porsche 356"
+
+    },
+    "19": {
+      "a": "BMW Série 1",
+      "b": "BMW Série 3",
+      "c": "BMW X3",
+      "d": "BMW X5"
+
+    },
+    "20": {
+      "a": "Audi",
+      "b": "BMW",
+      "c": "Mercedez-Benz",
+      "d": "Volvo"
+    }
+  },
+  {
+    "1": "1769",
+    "2": "1807",
+    "3": "1886",
+    "4": "Toyota Corolla",
+    "5": "Mustang",
+    "6": "Honda CR-V",
+    "7": "Fiat 124",
+    "8": "Tiguan",
+    "9": "Amarok",
+    "10": "Scuderia Ferrari",
+    "11": "Enzo Ferrrari",
+    "12": "Ônix",
+    "13": "Ford Mustang GT",
+    "14": "4,2",
+    "15": "Tracker",
+    "16": "Audi",
+    "17": "Ferrucio Lamborguini",
+    "18": "Porsche Panamera",
+    "19": "BMW Série 3",
+    "20": "Audi"
+  }
+]

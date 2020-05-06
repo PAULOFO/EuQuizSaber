@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) Em qual ano começou a ser transmitido a série Breaking Bad no Brasil?",
+    "2": "(02) Breaking Bad retrata a vida de um:?",
+    "3": "(03) Qual o nome do personagem principal de Breaking Bad?",
+    "4": "(04) Qual era a cor da metanfetamina que eles vendiam na série?",
+    "5": "(05) Qual é o nome do restaurante do Gus?",
+    "6": "(06) Walter White tinha um câncer em que parte do corpo?",
+    "7": "(07) Qual era o nome da namorada de Jesse que morreu por overdose?",
+    "8": "(08) Qual a matéria que Walter White lecionava?",
+    "9": "(09) Com qual pessoa Skyler trai Walter?",
+    "10": "(10) Qual o nome dos amigos de Jesse?",
+    "11": "(11) Qual estabelecimento era usado para lavagem de dinheiro de Walter White?",
+    "12": "(12) Qual desses atores recusou o papel de Walter White?",
+    "13": "(13) Qual é o nome do último episódio de Breaking Bad?",
+    "14": "(14) Quantos episódios teve a primeira temporada de Breaking Bad?",
+    "15": "(15) Qual o nome da filha de Walter White?",
+    "16": "(16) Como se chamava a empresa em que Walter White foi Co-Fundador quando mais jovem?",
+    "17": "(17) Como ocorre a morte de Jane, a primeira namorada de Jesse?",
+    "18": "(18) Em qual episódio Walter White assume seu alter ego \"Heisenberg\"?",
+    "19": "(19) A série Breaking Bad teve o total de:?",
+    "20": "(20) Qual o nome do criador da série Breaking Bad?"
+  },
+  {
+    "1": {
+      "a": "2007",
+      "b": "2008",
+      "c": "2009",
+      "d": "2010"
+    },
+    "2": {
+      "a": "Jogador",
+      "b": "Filósofo",
+      "c": "Químico",
+      "d": "Programador"
+    },
+    "3": {
+      "a": "Jesse Pinkman",
+      "b": "Hank Schrader",
+      "c": "Walter White",
+      "d": "Skyler White"
+    },
+    "4": {
+      "a": "Azul",
+      "b": "Amarela",
+      "c": "Branca",
+      "d": "Preta"
+    },
+    "5": {
+      "a": "Los Dos Hermanos",
+      "b": "Los Gallos Hermanos",
+      "c": "Los Hermanos",
+      "d": "Los Pollos Hermanos"
+    },
+    "6": {
+      "a": "No cérebro",
+      "b": "No fígado",
+      "c": "No intestino",
+      "d": "Nos pulmões"
+    },
+    "7": {
+      "a": "Anne",
+      "b": "Gina",
+      "c": "Jane",
+      "d": "Mary"
+    },
+    "8": {
+      "a": "Aritmética",
+      "b": "Biologia",
+      "c": "História",
+      "d": "Química"
+    },
+    "9": {
+      "a": "Bogdan Wolynetz",
+      "b": "Jesse Pinkman",
+      "c": "Tedd Beneke",
+      "d": "Nenhuma das opções"
+    },
+    "10": {
+      "a": "Badger e Skinny Pete",
+      "b": "Badger e Crazy Eight",
+      "c": "Crazy Eight e Tortuga",
+      "d": "Skinny Pete e Crazy Eight"
+    },
+    "11": {
+      "a": "Mercado",
+      "b": "Restaurante",
+      "c": "Lava Rápido",
+      "d": "Shopping"
+    },
+    "12": {
+      "a": "Bruce Willis",
+      "b": "Ian McKellen",
+      "c": "Matthew Broderick",
+      "d": "Sean Connery"
+    },
+    "13": {
+      "a": "End",
+      "b": "Felina",
+      "c": "Piloto",
+      "d": "Say my name"
+    },
+    "14": {
+      "a": "5 episódios",
+      "b": "6 episódios",
+      "c": "7 episódios",
+      "d": "9 episódios"
+    },
+    "15": {
+      "a": "Elza",
+      "b": "Hailie",
+      "c": "Holly",
+      "d": "Hope"
+    },
+    "16": {
+      "a": "Gray Matter Company",
+      "b": "Gray Matter Industries",
+      "c": "Gray Matter Technology",
+      "d": "Gray Matter Tecnologies"
+    },
+    "17": {
+      "a": "Ela morre de cancêr",
+      "b": "Ela tem uma overdose",
+      "c": "Ela se suicída",
+      "d": "Ela e assinada com um tiro"
+    },
+    "18": {
+      "a": "Episódio 03 1º Temporada",
+      "b": "Episódio 06 1º Temporada",
+      "c": "Episódio 07 1º Temporada",
+      "d": "Episódio 08 1º Temporada"
+    },
+    "19": {
+      "a": "4 Temporadas",
+      "b": "5 Temporadas",
+      "c": "6 Temporadas",
+      "d": "7 Temporadas"
+    },
+    "20": {
+      "a": "Anna Gunn",
+      "b": "Bryan Cranston",
+      "c": "Dean Norris",
+      "d": "Vince Gilligan"
+    }
+  },
+  {
+    "1": "2008",
+    "2": "Químico",
+    "3": "Walter White",
+    "4": "Azul",
+    "5": "Los Pollos Hermanos",
+    "6": "Nos pulmões",
+    "7": "Jane",
+    "8": "Química",
+    "9":  "Tedd Beneke",
+    "10": "Badger e Skinny Pete",
+    "11": "Lava Rápido",
+    "12": "Matthew Broderick",
+    "13": "Felina",
+    "14": "7 episódios",
+    "15": "Holly",
+    "16": "Gray Matter Tecnologies",
+    "17": "Ela tem uma overdose",
+    "18": "Episódio 06 1º Temporada",
+    "19": "6 Temporadas",
+    "20": "Vince Gilligan"
+  }
+]

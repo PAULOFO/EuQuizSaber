@@ -1,0 +1,169 @@
+[
+  {
+    "1": "(01) O que significa a palavra Truck?",
+    "2": "(02) A pergunta \"Quantos anos você tem?\" é -> \"How ___ are you?\". Qual palavra completa o espaço em branco?",
+    "3": "(03) Qual dessas palavras é um sinônimo de \"Fairness\"?",
+    "4": "(04) Qual das palavras abaixo não se correlaciona com \"Fish\"?",
+    "5": "(05) Qual dessas palavras não é um sentimento?",
+    "6": "(06) Qual a tradução para a palavra \"Kingdom\"",
+    "7": "(07) Qual é o antônimo de \"Love\"?",
+    "8": "(08) \"Doze\" em inglês é?",
+    "9": "(09) Complete a frase: We ____ eternal apprentices of the great master of the universe.",
+    "10": "(10) Qual das alternativas está correta?",
+    "11": "(11) Qual das alternativas não é uma nacionalidade?",
+    "12": "(12) Qual das alternativas expressa corretamente a frase \"São 10:00\"?",
+    "13": "(13) Qual a tradução correta para \"Meu pai é muito ausente!\"",
+    "14": "(14) Escolha a frase que está no passado:",
+    "15": "(15) Qual destas alternativas não é uma parte do corpo?",
+    "16": "(16) Indentifique qual a palavra que não se refere a um animal:",
+    "17": "(17) Indentifique qual a tradução de vinte e três em inglês:",
+    "18": "(18) Sendo uma fruta, qual a tradução de Watermelon?",
+    "19": "(19) Identifique a frase \"This Porsche is mine!\":",
+    "20": "(20) Qual a tradução para a frase \"Eu vou aprender inglês\":"
+  },
+  {
+    "1": {
+      "a": "How are you?",
+      "b": "Truque",
+      "c": "Caminhão",
+      "d": "Toque"
+    },
+    "2": {
+      "a": "How hated are you?",
+      "b": "How happy are you?",
+      "c": "How new are you?",
+      "d": "How old are you?"
+    },
+    "3": {
+      "a": "Justice",
+      "b": "Fairy",
+      "c": "Pain",
+      "d": "Sickness"
+    },
+    "4": {
+      "a": "Cat",
+      "b": "Dog",
+      "c": "Silk",
+      "d": "Wolf"
+    },
+    "5": {
+      "a": "Happiness",
+      "b": "Love",
+      "c": "Peace",
+      "d": "Piece"
+    },
+    "6": {
+      "a": "Terrestre",
+      "b": "Aquático",
+      "c": "Reino",
+      "d": "Rainha"
+    },
+    "7": {
+      "a": "Anguish",
+      "b": "Hate",
+      "c": "Meekness",
+      "d": "Suffering"
+    },
+    "8": {
+      "a": "Two",
+      "b": "Twenty",
+      "c": "Twelve",
+      "d": "Seven"
+    },
+    "9": {
+      "a": "are",
+      "b": "don´t",
+      "c": "doesn´t",
+      "d": "is"
+    },
+    "10": {
+      "a": "I dosen´t like this guy",
+      "b": "She loves me so much",
+      "c": "Aline want to kiss me",
+      "d": "They hasen´t to do the homework"
+    },
+    "11": {
+      "a": "Brazilian",
+      "b": "Brazil",
+      "c": "Italian",
+      "d": "Korean"
+    },
+    "12": {
+      "a": "It's seven o'clock",
+      "b": "It's a quarter to three",
+      "c": "It's ten o'clock",
+      "d": "It's twenty to six"
+    },
+    "13": {
+      "a": "I like to dance",
+      "b": "My dad é very courageous!",
+      "c": "My father is very absent",
+      "d": "My father is very lazy!"
+    },
+    "14": {
+      "a": "My father lives in São Paulo",
+      "b": "Are you going there tomorrow today?",
+      "c": "I was poor, today I am rich!",
+      "d": "We are going to Miami tomorrow!"
+    },
+    "15": {
+      "a": "Number",
+      "b": "Hand",
+      "c": "Arm",
+      "d": "foot"
+    },
+    "16": {
+      "a": "Dog",
+      "b": "Lion",
+      "c": "Tiger",
+      "d": "Card"
+    },
+    "17": {
+      "a": "Twenty three",
+      "b": "Thirty three",
+      "c": "Forty three",
+      "d": "Thirteen"
+    },
+    "18": {
+      "a": "Mexirica",
+      "b": "Melão",
+      "c": "Melância",
+      "d": "Morango"
+    },
+    "19": {
+      "a": "Afirmação",
+      "b": "Negação",
+      "c": "Dúvida",
+      "d": "Todas incorretas"
+
+    },
+    "20": {
+      "a": "I will practice English",
+      "b": "I study english",
+      "c": "I will learn English",
+      "d": "I speak English"
+    }
+  },
+  {
+    "1": "Caminhão",
+    "2": "How old are you?",
+    "3": "Justice",
+    "4": "Silk",
+    "5": "Piece",
+    "6": "Reino",
+    "7": "Hate",
+    "8": "Twelve",
+    "9": "are",
+    "10": "She loves me so much",
+    "11": "Brazil",
+    "12": "It's ten o'clock",
+    "13": "My father is very absent",
+    "14": "I was poor, today I am rich!",
+    "15": "Number",
+    "16": "Card",
+    "17": "Twenty three",
+    "18": "Melância",
+    "19": "Afirmação",
+    "20": "I will learn English"
+  }
+]

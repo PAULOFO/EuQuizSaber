@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) Os 519 capítulos do mangá Dragon Ball originaram quantas séries animadas?",
+    "2": "(02) Qual o nome do criador de Dragão Ball?",
+    "3": "(03) A saga Dragon Ball foi inspirada em qual clássico chinês?",
+    "4": "(04) Qual é a última continuação canônica de Dragon Ball Z transformada em anime?",
+    "5": "(05) Dentre os mangás japoneses qual é o de maior sucesso em toda história?",
+    "6": "(06) Em qual mitologia se baseia o anime/mangá Cavaleiros dos Zodiáco?",
+    "7": "(07) Quem era o(a) mestre(a) de Seiya de Pégazus em Os Cavaleiros do Zodiáco?",
+    "8": "(08) Em Os Cavaleiros do Zodiáco qual o nome da última agulha escarlate do golpe de Milo de Escorpião e que é fatal?",
+    "9": "(09) Quantas vezes Seiya trajou a armadura de ouro de gêmeos?",
+    "10": "(10) Pokémon é centrado em humanos que capturam criaturas e as treinam para lutarem um contra o outro como esporte?",
+    "11": "(11) Qual foi o primeiro pokémon capturado por Ash?",
+    "12": "(12) Qual o nome do personagem principal de YuYu Hakusho?",
+    "13": "(13) Em YuYu Hakusho o que levou Yusuke a conhecer a Botan, que transporta as almas para o Mundo Espiritual?",
+    "14": "(14) Qual o nome do criador de Naruto? ",
+    "15": "(15) No anime Naruto qual desses 4 ninjas foi o mais novo a se graduar na academia?",
+    "16": "(16) Dos elementos qual é natural do clã Uchiha?",
+    "17": "(17) O Sharingan é despertado quando?",
+    "18": "(18) Qual a Bijuu do Naruto",
+    "19": "(19) Qual o nome do pai de Naruto?",
+    "20": "(20) Qual o nome do primeiro filho de Naruto que dá nome a continuação direta?"
+  },
+  {
+    "1": {
+      "a": "Uma",
+      "b": "Duas",
+      "c": "Três",
+      "d": "Quatro"
+    },
+    "2": {
+      "a": "Masashi Kishimito",
+      "b": "Nagato Koji",
+      "c": "Akira Toriyama",
+      "d": "Akira Tobirama"
+    },
+    "3": {
+      "a": "Jornada ao Oeste",
+      "b": "Margem de Água",
+      "c": "O Romance dos Três Reinos",
+      "d": "O Sonho da Câmara Vermelha"
+    },
+    "4": {
+      "a": "Dragon Ball GT",
+      "b": "Dragon Ball Heroes",
+      "c": "Dragon Ball",
+      "d": "Dragon Ball Super"
+    },
+    "5": {
+      "a": "Naruto",
+      "b": "Cavaleiros do Zodiáco",
+      "c": "Dragon Ball",
+      "d": "One Piece"
+    },
+    "6": {
+      "a": "Árabe",
+      "b": "Mitologia Egípcia",
+      "c": "Mitologia Grega",
+      "d": "Mitologia Indígena"
+    },
+    "7": {
+      "a": "Marin de Águia",
+      "b": "Shina de Cobra",
+      "c": "Mestre Cristal",
+      "d": "Ayoria"
+    },
+    "8": {
+      "a": "Agulha",
+      "b": "Antares",
+      "c": "Escorpião Final",
+      "d": "Õmega"
+    },
+    "9": {
+      "a": "Na batalha contra Hilda",
+      "b": "Contra Hades",
+      "c": "Contra Poseidon",
+      "d": "Nunca"
+    },
+    "10": {
+      "a": "Não",
+      "b": "Sim",
+      "c": "Não sei",
+      "d": "Não é verdade"
+    },
+    "11": {
+      "a": "Caterpie",
+      "b": "Metapod",
+      "c": "Spearow",
+      "d": "Pikachu"
+    },
+    "12": {
+      "a": "Yusuke",
+      "b": "Kurama",
+      "c": "Kuwabara",
+      "d": "Hiei"
+    },
+    "13": {
+      "a": "Ganhar um luta",
+      "b": "Estudar no colégio",
+      "c": "Morrer ao salvar uma criança",
+      "d": "Gostar da Keiko"
+    },
+    "14": {
+      "a": "Akira Toriyama",
+      "b": "Eiichiro Oda",
+      "c": "Hayato Date",
+      "d": "Masashi Kishimoto"
+    },
+    "15": {
+      "a": "Itachi",
+      "b": "Kakashi",
+      "c": "Minato",
+      "d": "Orochimaru"
+    },
+    "16": {
+      "a": "Estilo Água",
+      "b": "Estilo Fogo",
+      "c": "Estilo Relâmpago",
+      "d": "Estilo Vento"
+    },
+    "17": {
+      "a": "Quando alguém querido morre",
+      "b": "Quando se rouba os olhos de outro Uchiha",
+      "c": "Quando se reune o chakra de Indra e Ashura",
+      "d": "Sentir forte e profunda comoção"
+    },
+    "18": {
+      "a": "Isobu",
+      "b": "Kokuô",
+      "c": "Kurama",
+      "d": "Shukaku"
+    },
+    "19": {
+      "a": "Jiraya",
+      "b": "Madara",
+      "c": "Minato",
+      "d": "Sarutobi"
+    },
+    "20": {
+      "a": "Boruto",
+      "b": "Himawari",
+      "c": "Kawaki",
+      "d": "Mitsuki"
+    }
+  },
+  {
+    "1": "Duas",
+    "2": "Akira Toriyama",
+    "3": "Jornada ao Oeste",
+    "4": "Dragon Ball Super",
+    "5": "Dragon Ball",
+    "6": "Mitologia Grega",
+    "7": "Marin de Águia",
+    "8": "Antares",
+    "9": "Nunca",
+    "10": "Sim",
+    "11": "Caterpie",
+    "12": "Yusuke",
+    "13": "Morrer ao salvar uma criança",
+    "14": "Masashi Kishimoto",
+    "15": "Kakashi",
+    "16": "Estilo Fogo",
+    "17": "Sentir forte e profunda comoção",
+    "18": "Kurama",
+    "19": "Minato",
+    "20": "Boruto"
+  }
+]

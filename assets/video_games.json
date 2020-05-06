@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) Qual o nome do primeiro Video-Game comercial criado da história?",
+    "2": "(02) Qual o nome do primeiro Video-Game não-comercial criado da história em 1950?",
+    "3": "(03) Em que ano foi criado o lendário jogo Pac-Man por Toru Iwatami?",
+    "4": "(04) Em que ano o jogo Donkey Kong da Nintendo foi apresentado?",
+    "5": "(05) O NES(conhecido como Nintendinho no Brasil) da Nintendo começou a ser vendido em que ano nos EUA?",
+    "6": "(06) Qual é o personagem mais querido do mundo dos games?",
+    "7": "(07) Qual era o nome antigo do Mario?",
+    "8": "(08) Em que ano foi lançado o primeiro jogo da série Halo, Halo: Combat Evolved?",
+    "9": "(09) Em Pacman, qual é o fantasma que sempre pega o caminho mais curto até você?",
+    "10": "(10) Qual destes consoles vendeu pouco e a empresa saiu do ramo de consoles?",
+    "11": "(11) Qual é o protagonista do GTA San Andreas?",
+    "12": "(12) Qual o nome do cachorro que ajuda o jogador em Call of Duty: Ghosts?",
+    "13": "(13) Qual jogo inaugurou o gênero Survival Horror?",
+    "14": "(14) Em Minecraft qual destes monstros não pega fogo de dia e pode aparecer a qualquer momento?",
+    "15": "(15) Em Pokemon X/Y, como se chama o Pokemon aquático que você pode escolher de ínicio?",
+    "16": "(16) De todas as franquias da Sega qual a sua franquia mais famosa e que também é o mascote da empresa?",
+    "17": "(17) Qual o personagem principal do jogo God of War?",
+    "18": "(18) Minecraft é jogo mais vendido do mundo com 176 milhões de unidades vendidas, qual o segundo jogo mais vendido?",
+    "19": "(19) Qual o video-game mais vendido da história?",
+    "20": "(20) Nesse ano de 2020 se espera o lançamento de quais desses video-games?"
+  },
+  {
+    "1": {
+      "a": "Odyssey",
+      "b": "Pong",
+      "c": "Philips",
+      "d": "Telejogo"
+    },
+    "2": {
+      "a": "One",
+      "b": "Bertie The Brain",
+      "c": "Pong",
+      "d": "Nenhuma das opções"
+    },
+    "3": {
+      "a": "1980",
+      "b": "1981",
+      "c": "1982",
+      "d": "1983"
+    },
+    "4": {
+      "a": "1979",
+      "b": "1980",
+      "c": "1981",
+      "d": "1982"
+    },
+    "5": {
+      "a": "1985",
+      "b": "1986",
+      "c": "1987",
+      "d": "1988"
+    },
+    "6": {
+      "a": "Kratos",
+      "b": "Mario",
+      "c": "Pacman",
+      "d": "Sonic"
+    },
+    "7": {
+      "a": "Bob",
+      "b": "Jumpman",
+      "c": "Sempre foi Mario",
+      "d": "Shigeru"
+    },
+    "8": {
+      "a": "2001",
+      "b": "2002",
+      "c": "2003",
+      "d": "2004"
+    },
+    "9": {
+      "a": "Blinky (vermelho)",
+      "b": "Clyde (laranja)",
+      "c": "Inky (azul)",
+      "d": "Pinky (rosa)"
+    },
+    "10": {
+      "a": "Sega Dreamcast",
+      "b": "Nintendo 64",
+      "c": "PSP",
+      "d": "PS Vita"
+    },
+    "11": {
+      "a": "CJ",
+      "b": "Niko Belic",
+      "c": "Trevor",
+      "d": "Nenhuma das opções"
+    },
+    "12": {
+      "a": "Big",
+      "b": "Bob",
+      "c": "Riley",
+      "d": "Tiley"
+    },
+    "13": {
+      "a": "Alone in the Dark",
+      "b": "Deep Fear",
+      "c": "Resident Evil",
+      "d": "Silent Hill"
+    },
+    "14": {
+      "a": "Esqueleto",
+      "b": "Creeper",
+      "c": "Esqueleto",
+      "d": "Nenhuma das opções"
+    },
+    "15": {
+      "a": "Chespin",
+      "b": "Froakie",
+      "c": "Yvetal",
+      "d": "Xerneas"
+    },
+    "16": {
+      "a": "Alex Kid",
+      "b": "Sonic",
+      "c": "Tails",
+      "d": "Yakuza"
+    },
+    "17": {
+      "a": "Atena",
+      "b": "Gaia",
+      "c": "Kratos",
+      "d": "Zeus"
+    },
+    "18": {
+      "a": "GTA V",
+      "b": "PUBG",
+      "c": "Tetris",
+      "d": "Wii Sports"
+    },
+    "19": {
+      "a": "Nintendo DS",
+      "b": "Playstation 2",
+      "c": "Playstation 4",
+      "d": "XBOX 360"
+    },
+    "20": {
+      "a": "Switch 2 e PSP 2",
+      "b": "DreamCast 2 e GameCube 2",
+      "c": "PS5 e XBox Series X",
+      "d": "Sega Saturn 2 e Atari 2000"
+    }
+  },
+  {
+    "1": "Odyssey",
+    "2": "Bertie The Brain",
+    "3": "1980",
+    "4": "1981",
+    "5": "1985",
+    "6": "Mario",
+    "7": "Jumpman",
+    "8": "2001",
+    "9": "Blinky (vermelho)",
+    "10": "Sega Dreamcast",
+    "11": "CJ",
+    "12": "Riley",
+    "13": "Resident Evil",
+    "14": "Creeper",
+    "15": "Froakie",
+    "16": "Sonic",
+    "17": "Kratos",
+    "18": "Tetris",
+    "19": "Playstation 2",
+    "20": "PS5 e XBox Series X"
+  }
+]

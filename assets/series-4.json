@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) Do que se trata a série Grey's Anatomy?",
+    "2": "(02) Grey's Anatomy começou a ser exibido no Brasil em qual canal fechado?",
+    "3": "(03) Qual nome da personagem principal de Grey's Anatomy?",
+    "4": "(04) O título do seriado é uma brincadeira com Gray's Anatomy (Anatomia de Gray), o famoso livro de anatomia de Henry Gray?",
+    "5": "(05) Qual o nome da primeira esposa de Richard Webber?",
+    "6": "(06) O drama da série se passa em qual estabelecimento?",
+    "7": "(07) Quantas nomes o Hospital já teve?",
+    "8": "(08) Quem operou a mão de Derek depois do trauma do acidente?",
+    "9": "(09) Onde exatamente Lexie estava quando morreu?",
+    "10": "(10) Após qual evento Cristina voltou de um hospital que estava e apareceu na porta de Meredith?",
+    "11": "(11) Quem deu autorização para amputar a perna de Arizona?",
+    "12": "(12) Depois de quantos dias os aparelhos de Mark Sloan foram desligados?",
+    "13": "(13) Quem foi a pessoa que não queria aceitar a proposta do processo contra a empresa aérea?",
+    "14": "(14) Qual a especialidade médica de Cristina Yang?",
+    "15": "(15) Na quarta temporada Lexie rouba objetos no hospital para decorar seu apartamento. Qual objeto ela roubou da enfermeira Rose?",
+    "16": "(16) Qual personagem é conhecido como ROBÔ por ser tão frio?",
+    "17": "(17) Quem April encontrou caída cheia de sangue no chão no dia do tiroteio do hispital?",
+    "18": "(18) Em qual temporada aconteceu o acidente aereo?",
+    "19": "(19) Quantos filhos Meredith Grey tem?",
+    "20": "(20) Em qual área médica Meredith se especializou?"
+  },
+  {
+    "1": {
+      "a": "É um drama médico brasileiro",
+      "b": "É sobre médicos viciados",
+      "c": "É um drama médico norte-americano",
+      "d": "É um drama médico veterinário"
+    },
+    "2": {
+      "a": "Fox",
+      "b": "HBO",
+      "c": "Sony",
+      "d": "Syfy"
+    },
+    "3": {
+      "a": "Dra. Meredith Grey",
+      "b": "Cristina Yang",
+      "c": "Derek Shepherd",
+      "d": "Miranda Bailey"
+    },
+    "4": {
+      "a": "Verdadeiro",
+      "b": "Falso",
+      "c": "Não existe esse livro",
+      "d": "Nenhumas das opções"
+    },
+    "5": {
+      "a": "Anne",
+      "b": "Adele",
+      "c": "Cristina",
+      "d": "Molly"
+    },
+    "6": {
+      "a": "Açougue",
+      "b": "Centro Veterinário",
+      "c": "Hospital",
+      "d": "Nenhuma das opções"
+    },
+    "7": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "8": {
+      "a": "Dra. Callie",
+      "b": "Dra. Meredith",
+      "c": "Miranda Bailey",
+      "d": "Nenhuma das opções"
+    },
+    "9": {
+      "a": "Esmagada em uma poltrona",
+      "b": "Pendurada em uma árvore",
+      "c": "Presa em baixo do avião",
+      "d": "Presa no banheiro"
+    },
+    "10": {
+      "a": "Após assistir Naruto",
+      "b": "Após ela ser assaltada",
+      "c": "Após seu carro quebrar",
+      "d": "Após um médico morrer na cirurgia"
+    },
+    "11": {
+      "a": "Callie",
+      "b": "Karev",
+      "c": "Jil",
+      "d": "Meredith Grey"
+    },
+    "12": {
+      "a": "20",
+      "b": "30",
+      "c": "45",
+      "d": "70"
+    },
+    "13": {
+      "a": "Callie",
+      "b": "Cristina",
+      "c": "Derek",
+      "d": "Meredith"
+    },
+    "14": {
+      "a": "Cardiologia",
+      "b": "Oftalmologia",
+      "c": "Oncologia",
+      "d": "Ortopedia"
+    },
+    "15": {
+      "a": "Abajur",
+      "b": "Quadro",
+      "c": "Porta-retrato",
+      "d": "Vaso de flores"
+    },
+    "16": {
+      "a": "Callie",
+      "b": "Cristina",
+      "c": "Derek",
+      "d": "Miranda"
+    },
+    "17": {
+      "a": "George",
+      "b": "Derek",
+      "c": "Callie",
+      "d": "Reed"
+    },
+    "18": {
+      "a": "3º Temporada",
+      "b": "7º Temporada",
+      "c": "8º Temporada",
+      "d": "12º Temporada"
+    },
+    "19": {
+      "a": "3 Filhos",
+      "b": "4 Filhos",
+      "c": "5 Filhos",
+      "d": "6 Filhos"
+    },
+    "20": {
+      "a": "Cardiologia",
+      "b": "Clínica Geral",
+      "c": "Ortopedia",
+      "d": "Pediatria"
+    }
+  },
+  {
+    "1": "É um drama médico norte-americano",
+    "2": "Sony",
+    "3": "Dra. Meredith Grey",
+    "4": "Verdadeiro",
+    "5": "Adele",
+    "6": "Hospital",
+    "7": "3",
+    "8": "Dra. Callie",
+    "9": "Presa em baixo do avião",
+    "10": "Após um médico morrer na cirurgia",
+    "11": "Callie",
+    "12": "30",
+    "13": "Derek",
+    "14": "Cardiologia",
+    "15": "Vaso de flores",
+    "16": "Cristina",
+    "17": "Reed",
+    "18": "8º Temporada",
+    "19": "3 Filhos",
+    "20": "Clínica Geral"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "387247187507",
+    "firebase_url": "https://euquizsaber-2cc0f.firebaseio.com",
+    "project_id": "euquizsaber-2cc0f",
+    "storage_bucket": "euquizsaber-2cc0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387247187507:android:ed173748d40ddb421fa546",
+        "android_client_info": {
+          "package_name": "magazine.euquizsaber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387247187507-36aqmkkr635o7tmec1rf8b1e5njok1ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "magazine.euquizsaber",
+            "certificate_hash": "4858826e53e2cef9a7d923203dc845cc30b64d56"
+          }
+        },
+        {
+          "client_id": "387247187507-5jtfbfhvir6kal9lo00q759gs4hp4u06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5Ebr3ztSY8quicrkVtB-2cDWsjxhjag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387247187507-5jtfbfhvir6kal9lo00q759gs4hp4u06.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387247187507-lhlj6842q4qvbalb91rc93kup1h1hsfv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "magazine.euquizsaber"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7593145498964509~5395458720"
+    }
+  ],
+  "configuration_version": "1"
+}

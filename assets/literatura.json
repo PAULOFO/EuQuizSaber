@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) A Literatura é considerada uma forma de Arte, a partir disso é correto afirmar que a Arte Literária é:",
+    "2": "(02) As primeiras obras literárias produzidas em solo brasileiro com o objetivo de enviar informações a Coroa Portuguesa é conhecida como?",
+    "3": "(03) O Quinhentismo foi um movimento literário conhecido como:",
+    "4": "(04) Após o Quinhentismo inaugurou-se no Brasil qual escola literária?",
+    "5": "(05) Literatura é uma palavra com origem no termo littera, que significa:",
+    "6": "(06) A Literatura é dividida em duas eras sendo elas:",
+    "7": "(07) Sob as descrições citadas abaixo, qual pode ser atribuída ao Barroco?",
+    "8": "(08) As expressões Carpe diem, Locus amoenus, Fugere urbem, estão relacionadas diretamente a qual período literário?",
+    "9": "(09) A literatura é como um pássaro que está prestes a voar, sem delimitar-se e sem padrões para assegurar-se. É correto dizer que este trecho acima possui:",
+    "10": "(10) Quais das características abaixo possui relação com o Romantismo?",
+    "11": "(11) Qual o nome do movimento literário que utilizava de Cantigas líricas e satíricas?",
+    "12": "(12) Qual o Primeiro movimento literário do Brasil?",
+    "13": "(13) Assinale a alternativa que contenha apenas autores românticos:",
+    "14": "(14) Pastoralismo, Bucolismo, Tranquilidade, Sabedoria, Sonetos, Pseudônimos e Equilibrio são caracteristicas de qual movimento literário?",
+    "15": "(15) O Mulato\" e \"Memórias Póstumas de Brás Cubas\" de 1881, são obras que marcam o início do:?",
+    "16": "(16) Séculos XII, XIV e XVI marcam, respectivamente, os movimentos?",
+    "17": "(17) O termo \"geração condoreira\" refere-se à 3ª geração do ___.",
+    "18": "(18) É uma obra do Romantismo:",
+    "19": "(19) O Romantismo está relacionado com o surgimento de um novo público leitor. Qual é essa classe??",
+    "20": "(20) Ela saltou em meio da roda, com os braços na cintura, rebolando as ilhargas e bamboleando a cabeça, ora para a esquerda, ora para a direita, como numa sofreguidão de gozo carnal...\" O trecho acima pertence à obra \"O Cortiço\" de Aluísio Azvedo. Identifique o estilo da obra:?"
+  },
+  {
+    "1": {
+      "a": "Comparativa",
+      "b": "Metafórica",
+      "c": "Objetiva",
+      "d": "Subjetiva"
+    },
+    "2": {
+      "a": "Arcadismo",
+      "b": "Barroco",
+      "c": "Quinhentismo",
+      "d": "Renascimento"
+    },
+    "3": {
+      "a": "Brasil Colonia",
+      "b": "Escola literária portuguesa",
+      "c": "Literatura de Informação",
+      "d": "Renascimento"
+    },
+    "4": {
+      "a": "Arcadismo",
+      "b": "Barroco",
+      "c": "Modernismo",
+      "d": "Romantismo"
+    },
+    "5": {
+      "a": "Arte",
+      "b": "Arte das Letras",
+      "c": "Alfabeto",
+      "d": "Letra"
+    },
+    "6": {
+      "a": "Brasil Colonia e Brasil Império",
+      "b": "Descobrimento do Brasil e Brasil Império",
+      "c": "Era Colonial e Era Nacional",
+      "d": "Nenhuma das alternativas"
+    },
+    "7": {
+      "a": "Bucolismo e Pastoralismo",
+      "b": "Cultismo e o Conceptismo",
+      "c": "Expressos em latim como carpe diem",
+      "d": "Nenhuma das alternativas"
+    },
+    "8": {
+      "a": "Arcardismo/Neoclassicismo",
+      "b": "Classicismo",
+      "c": "Realismo",
+      "d": "Romantismo"
+    },
+    "9": {
+      "a": "Sentido clássico",
+      "b": "Sentido conotativo",
+      "c": "Sentido denotativo",
+      "d": " Sentido paradoxal"
+    },
+    "10": {
+      "a": "Exagero, bucolismo e regionalismo",
+      "b": "Linguagem idealizada, opinião e critica",
+      "c": "Subjetividade, descrição jogo de palavras",
+      "d": "Sentimentalismo e nacionalismo"
+    },
+    "11": {
+      "a": "Arcadismo",
+      "b": "Barroco",
+      "c": "Humanismo",
+      "d": "Trovadorismo"
+    },
+    "12": {
+      "a": "Barroco",
+      "b": "Classicismo",
+      "c": "Quinhentismo",
+      "d": "Romantismo"
+    },
+    "13": {
+      "a": "Camões e Gonçalves Dias",
+      "b": "Jorge Amado e Machado de Assis",
+      "c": "Gonçalves Dias e Castro Alves",
+      "d": "Pe. Anchieta e Machado de Assis"
+    },
+    "14": {
+      "a": "Arcadismo",
+      "b": "Romantismo",
+      "c": "Classicismo",
+      "d": "Realismo"
+    },
+    "15": {
+      "a": "Barroco no Brasil",
+      "b": "Naturalismo em Portugal",
+      "c": "Quinhentismo no Brasil",
+      "d": "Realismo no Brasil"
+    },
+    "16": {
+      "a": "Trovadorismo, Humanismo e Classicismo",
+      "b": "Trovadorismo, Humanismo e Arcadismo",
+      "c": "Trovadorismo, Romantismo e Barroco",
+      "d": "Trovadorismo, Romantismo e Classicismo"
+    },
+    "17": {
+      "a": "Arcadismo",
+      "b": "Classicismo",
+      "c": "Romantismo",
+      "d": "Nenhuma das alternativas"
+    },
+    "18": {
+      "a": "A Carta de Pero Vaz de Caminha",
+      "b": "A Moreninha de Joaquim Manoel M.",
+      "c": "Os Lusíadas de Camões",
+      "d": "O Alienista de Machado de Assis"
+    },
+    "19": {
+      "a": "Burguesia",
+      "b": "Escravos",
+      "c": "Fazendeiros",
+      "d": "Nobreza"
+    },
+    "20": {
+      "a": "Barroco",
+      "b": "Modernismo",
+      "c": "Realismo",
+      "d": "Naturalismo"
+    }
+  },
+  {
+    "1": "Subjetiva",
+    "2": "Quinhentismo",
+    "3": "Literatura de Informação",
+    "4": "Barroco",
+    "5": "Letra",
+    "6": "Era Colonial e Era Nacional",
+    "7": "Cultismo e o Conceptismo",
+    "8": "Arcardismo/Neoclassicismo",
+    "9": "Sentido conotativo",
+    "10": "Sentimentalismo e nacionalismo",
+    "11": "Trovadorismo",
+    "12": "Quinhentismo",
+    "13": "Gonçalves Dias e Castro Alves",
+    "14": "Arcadismo",
+    "15": "Realismo no Brasil",
+    "16": "Trovadorismo, Humanismo e Classicismo",
+    "17": "Romantismo",
+    "18": "A Moreninha de Joaquim Manoel M.",
+    "19": "Burguesia",
+    "20": "Naturalismo"
+  }
+]

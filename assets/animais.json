@@ -1,0 +1,168 @@
+[
+    {
+        "1": "(01) Os Leões são animais carnívoros?",
+        "2": "(02) Os Rinocerontes são herbívoros. Verdadeiro ou falso?",
+        "3": "(03) Qual o tempo de gestação de uma leoa?",
+        "4": "(04) Qual é o felino mais rápido do mundo?",
+        "5": "(05) Qual é o maior animal do mundo?",
+        "6": "(06) A Baleia azul é um mamífero terrestre ou aquático?",
+        "7": "(07) Dentre as aves, qual é a maior ave do mundo?",
+        "8": "(08) Qual o maior réptil do mundo?",
+        "9": "(09) Os Rinocerontes são:",
+        "10": "(10) Escolha a única alternativa que não está correta?",
+        "11": "(11) Qual é o maior animal terrestre?",
+        "12": "(12) Animais onívoros se alimentam de qual alimento?",
+        "13": "(13) Qual a raça de cachorros que possuí a língua azul?",
+        "14": "(14) Dentre as raças de cachorros, qual é a maior em tamanho? ",
+        "15": "(15) Qual o animal que causa mais mortes de humanos no mundo?",
+        "16": "(16) Dos animais, qual tem a mordida mais forte do mundo?",
+        "17": "(17) Dentre os animais felinos, qual é o maior de todos?",
+        "18": "(18) Qual o animal mais rápido do mundo",
+        "19": "(19) Dentro do reino animal qual o mais dócil de todos?",
+        "20": "(20) Qual animal é conhecido como o melhor amigo do homem?"
+    },
+    {
+        "1": {
+            "a": "Verdadeiro",
+            "b": "Falso",
+            "c": "Nenhuma das opções",
+            "d": "Não sei"
+        },
+        "2": {
+            "a": "Verdadeiro",
+            "b": "Falso",
+            "c": "Nenhuma das opções",
+            "d": "Não sei"
+        },
+        "3": {
+            "a": "9 Meses",
+            "b": "4 Meses",
+            "c": "6 Meses",
+            "d": "7 Meses"
+        },
+        "4": {
+            "a": "Gato",
+            "b": "Guepardo",
+            "c": "Tigre",
+            "d": "Leopardo"
+        },
+        "5": {
+            "a": "Baleia-Azul",
+            "b": "Elefante",
+            "c": "Girafa",
+            "d": "Leão"
+        },
+        "6": {
+            "a": "Terrestre",
+            "b": "Aquático",
+            "c": "Nenhuma das opções",
+            "d": "Não sei"
+        },
+        "7": {
+            "a": "Avestruz",
+            "b": "Arara-Azul",
+            "c": "Morcego",
+            "d": "Gavião"
+        },
+        "8": {
+            "a": "Cobra",
+            "b": "Crocodilo",
+            "c": "Jacaré",
+            "d": "Lagarto"
+        },
+        "9": {
+            "a": "Herbívoros",
+            "b": "Carnívoros",
+            "c": "Os dois",
+            "d": "Nenhum dos dois"
+        },
+        "10": {
+            "a": "Lagarto - Réptil",
+            "b": "Cachorro - Mamífero",
+            "c": "Tucano - Ave",
+            "d": "Rã - Anfíbio"
+        },
+        "11": {
+            "a": "Elefante Índiano",
+            "b": "Elefante Africano",
+            "c": "Rinocerante Branco",
+            "d": "Baleia Azul"
+        },
+        "12": {
+            "a": "Carne",
+            "b": "Frutas",
+            "c": "Ovos",
+            "d": "Qualquer Alimento"
+        },
+        "13": {
+            "a": "Chow Chow",
+            "b": "Shar Pei",
+            "c": "Shar Pei e Chow Chow",
+            "d": "Nenhum dos dois"
+        },
+        "14": {
+            "a": "Buldogue gigante da África",
+            "b": "Kangal",
+            "c": "Mastiff",
+            "d": "Pastor Alemão"
+        },
+        "15": {
+            "a": "Aranha",
+            "b": "Cobra",
+            "c": "Mosquito",
+            "d": "Onça"
+        },
+        "16": {
+            "a": "Cachorro",
+            "b": "Leão",
+            "c": "Tigre",
+            "d": "Crocodilo"
+        },
+        "17": {
+            "a": "Guepardo",
+            "b": "Leão",
+            "c": "Onça Pintada",
+            "d": "Tigre Siberiano"
+        },
+        "18": {
+            "a": "Cachorro",
+            "b": "Cavalo",
+            "c": "Gato",
+            "d": "Guepardo"
+        },
+        "19": {
+            "a": "Cachorro",
+            "b": "Coala",
+            "c": "Gato",
+            "d": "Pomba"
+        },
+        "20": {
+            "a": "Cachorro",
+            "b": "Gato",
+            "c": "Macaco",
+            "d": "Tartaruga"
+        }
+    },
+    {
+        "1": "Verdadeiro",
+        "2": "Verdadeiro",
+        "3": "4 Meses",
+        "4": "Guepardo",
+        "5": "Baleia-Azul",
+        "6": "Aquático",
+        "7": "Avestruz",
+        "8": "Crocodilo",
+        "9": "Herbívoros",
+        "10": "Cachorro - Mamífero",
+        "11": "Elefante Africano",
+        "12": "Qualquer Alimento",
+        "13": "Shar Pei e Chow Chow",
+        "14": "Kangal",
+        "15": "Mosquito",
+        "16": "Crocodilo",
+        "17": "Tigre Siberiano",
+        "18": "Guepardo",
+        "19": "Coala",
+        "20": "Cachorro"
+    }
+]

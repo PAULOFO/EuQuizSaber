@@ -1,0 +1,169 @@
+[
+  {
+    "1": "(01) Qual é o país berço dos jogos Olímpicos de verão?",
+    "2": "(02) Em que ano ocorreu a primeira edição dos Jogos Olímpicos da era moderna?",
+    "3": "(03) Qual desses atletas é o maior ganhador de medalhas Olímpicas?",
+    "4": "(04) Qual o  esporte individual que mais deu medalhas ao Brasil?",
+    "5": "(05) Em qual ano ocorreu nas Olimpíadas o atentado terrorista a delegação israelense, que ficou conhecido como o Massacre de Munique??",
+    "6": "(06) Qual a primeira ginasta a tirar nota dez na história das Olimpíadas?",
+    "7": "(07) Quais os países que mais vezes ganharam medalha de ouro no futebol masculino nas Olimpíadas?",
+    "8": "(08) Em qual Olimpíada o Brasil teve a sua melhor conquista de medalhas?",
+    "9": "(09) Em qual posição o Brasil ficou no quadro de medalhas do Rio 2016?",
+    "10": "(10) Em qual ano Ronaldo o Fenomêno foi eleito o melhor jogador de futebol do mundo pela terceira vez?",
+    "11": "(11) Quantas vezes Ronaldinho Gaúcho foi eleito o melhor jogador de futebol do mundo?",
+    "12": "(12) Qual jogador é considerado como o rei do futebol e melhor de todos os tempos?",
+    "13": "(13) Quantas vezes o Brasil foi campeão da Copa do Mundo?",
+    "14": "(14) Qual o único país a participar de todas as copas do mundo da Fifa? ",
+    "15": "(15) Qual país é criou o esporte Basquetebol?",
+    "16": "(16) Quem é considerado o melhor jogador de basquete de todos os tempos?",
+    "17": "(17) Em qual país foi criado o Voleibol?",
+    "18": "(18) Qual atleta é considerado o maior velocista de todos os tempos?",
+    "19": "(19) Qual arte marcial Afro-Brasileira conhecida mundialmente nasceu no Brasil?",
+    "20": "(20) Qual o mais brilhante piloto brasileiro de Formula 1 e considerado o melhor de todos os tempos pela BBC?"
+  },
+  {
+    "1": {
+      "a": "Egito",
+      "b": "Grécia",
+      "c": "Eua",
+      "d": "Itália"
+    },
+    "2": {
+      "a": "1892",
+      "b": "1896",
+      "c": "1900",
+      "d": "1904"
+    },
+    "3": {
+      "a": "Franziska Van Almsick",
+      "b": "Michael Phelps",
+      "c": "Paavo Nurmi",
+      "d": "Usain Bolt"
+    },
+    "4": {
+      "a": "Atletismo",
+      "b": "Judô",
+      "c": "Natação",
+      "d": "Vela"
+    },
+    "5": {
+      "a": "1964",
+      "b": "1968",
+      "c": "1972",
+      "d": "1976"
+    },
+    "6": {
+      "a": "Daiane dos Santos",
+      "b": "Nadia Comãneci",
+      "c": "Simone Biles",
+      "d": "Svetlana Khorkina"
+    },
+    "7": {
+      "a": "Argentina e Uruguai",
+      "b": "Brasil e Grã-Bretanha",
+      "c": "Hungria e Grã-Bretanha",
+      "d": "Uruguai e Hungria"
+    },
+    "8": {
+      "a": "Olimpíadas de 2016",
+      "b": "Olimpíadas de 2012",
+      "c": "Olimpíadas de 2008",
+      "d": "Olimpíadas de 1976"
+    },
+    "9": {
+      "a": "11º",
+      "b": "12º",
+      "c": "13º",
+      "d": "14º"
+    },
+    "10": {
+      "a": "2000",
+      "b": "2001",
+      "c": "2002",
+      "d": "2002"
+    },
+    "11": {
+      "a": "3 vezes, em 2000, 2001 e 2004",
+      "b": "1 vez, em 2001",
+      "c": "2 vezes, em 2004 e 2005",
+      "d": "Nenhuma vez"
+    },
+    "12": {
+      "a": "Maradona",
+      "b": "Manoel Garrincha",
+      "c": "Pelé",
+      "d": "Ronaldinho Gaúcho"
+    },
+    "13": {
+      "a": "2 vezes",
+      "b": "3 vezes",
+      "c": "4 vezes",
+      "d": "5 vezes"
+    },
+    "14": {
+      "a": "Argentina",
+      "b": "Brasil",
+      "c": "Itália",
+      "d": "México"
+    },
+    "15": {
+      "a": "Alemanha",
+      "b": "Estados Unidos",
+      "c": "Canadá",
+      "d": "Austrália"
+    },
+    "16": {
+      "a": "Kobe Bryant",
+      "b": "Lebron James",
+      "c": "Michael Jordan",
+      "d": "Shaquille O'Neal"
+    },
+    "17": {
+      "a": "Brasil",
+      "b": "Estados Unidos",
+      "c": "Canadá",
+      "d": "Austrália"
+    },
+    "18": {
+      "a": "Asafa Powell",
+      "b": "Yohan Blake",
+      "c": "Tyson Gay",
+      "d": "Usain Bolt"
+
+    },
+    "19": {
+      "a": "Boxe",
+      "b": "Capoeira",
+      "c": "Jiu-jitsu",
+      "d": "Kung Fu"
+    },
+    "20": {
+      "a": "Emerson Fittipaldi",
+      "b": "Ayrton Senna",
+      "c": "Nelson Piquet",
+      "d": "Rubens Barrichello"
+    }
+  },
+  {
+    "1": "Grécia",
+    "2": "1896",
+    "3": "Michael Phelps",
+    "4": "Judô",
+    "5": "1972",
+    "6": "Nadia Comãneci",
+    "7": "Hungria e Grã-Bretanha",
+    "8": "Olimpíadas de 2016",
+    "9": "13º",
+    "10": "2002",
+    "11": "2 vezes, em 2004 e 2005",
+    "12": "Pelé",
+    "13": "5 vezes",
+    "14": "Brasil",
+    "15": "Estados Unidos",
+    "16": "Michael Jordan",
+    "17": "Estados Unidos",
+    "18": "Usain Bolt",
+    "19": "Capoeira",
+    "20": "Ayrton Senna"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) Em qual ano começou a ser televisionado o seriado Chaves no Brasil?",
+    "2": "(02) Qual o nome do criador do seriado Chaves?",
+    "3": "(03) Além de atuar como Chaves, Roberto Bolaños exercia qual outra função?",
+    "4": "(04) Qual dos personagens de Chaves se casaram na vida real?",
+    "5": "(05) Qual o nome real da personagem \"Patty\"?",
+    "6": "(06) Qual o nome verdadeiro da \"Bruxa do 71\"?",
+    "7": "(07) Quem é o pai da Chiquinha?",
+    "8": "(08) Qual o nome do episódio que Sr. Barriga vende a vila?",
+    "9": "(09) Qual o mais famoso apelido do professor Girafales?",
+    "10": "(10) Quem sempre bate no Sr. Madruga?",
+    "11": "(11) Em qual canal de tv aberta é transmitido o Chaves?",
+    "12": "(12) Qual apelido as crianças da vila dão a Dona Clotilde?",
+    "13": "(13) Qual a comida preferida do Chaves?",
+    "14": "(14) Qual personagem vive a fazer inveja das coisas que tem?",
+    "15": "(15) Em qual episódio Chaves corta o cabelo da Chiquinha?",
+    "16": "(16) Qual personagem que não gosta de tomar banho?",
+    "17": "(17) Qual no nome da tia da Patty?",
+    "18": "(18) Além de interpretar Dona Florinda qual a outra personagem Florinda Meza interpretava?",
+    "19": "(19) Quem é a prima do Kiko?",
+    "20": "(20) A frase: \"A Vingança nunca é plena, mata a alma e a invenena\" era de qual personagem?"
+  },
+  {
+    "1": {
+      "a": "1981",
+      "b": "1982",
+      "c": "1983",
+      "d": "1984"
+    },
+    "2": {
+      "a": "Carlos Villagrán",
+      "b": "Florinda Meza",
+      "c": "Ramón Valdés",
+      "d": "Roberto Gomes Bolaños"
+    },
+    "3": {
+      "a": "Camareiro",
+      "b": "Fotográfo",
+      "c": "Diretor",
+      "d": "Cenografista"
+    },
+    "4": {
+      "a": "Chaves e Dona Florinda",
+      "b": "Chaves e Chiqunha",
+      "c": "Kiko e Patty",
+      "d": "Kiko e Chuquinha"
+    },
+    "5": {
+      "a": "ANa Clara Macorra",
+      "b": "Ana de La Gomez",
+      "c": "Ana de La Macorra",
+      "d": "Ana Bolaños"
+    },
+    "6": {
+      "a": "Angeline Férnandes",
+      "b": "Angélica Fernández",
+      "c": "Angelines Fernández",
+      "d": "Angelines Calanthe"
+    },
+    "7": {
+      "a": "Sr. Barriga",
+      "b": "Prof. Girafales",
+      "c": "Sr. Madruga",
+      "d": "Nenhuma das opções"
+    },
+    "8": {
+      "a": "A doença do Kiko",
+      "b": "A venda da vila",
+      "c": "O despejo",
+      "d": "Sr. Madruga sapateiro"
+    },
+    "9": {
+      "a": "Professor Girafa",
+      "b": "Professor Linguiça",
+      "c": "Mangueira de bombeiro",
+      "d": "Escada ambulante"
+    },
+    "10": {
+      "a": "Chaves",
+      "b": "Chuquinha",
+      "c": "Dona Florinda",
+      "d": "Sr. Barriga"
+    },
+    "11": {
+      "a": "Band",
+      "b": "Rede TV",
+      "c": "Record",
+      "d": "SBT"
+    },
+    "12": {
+      "a": "Bruxa do 71",
+      "b": "Bruxa do 72",
+      "c": "Bruxa do 73",
+      "d": "Velha rabugenta"
+    },
+    "13": {
+      "a": "Churros",
+      "b": "Frango Assado",
+      "c": "Linguiça",
+      "d": "Sanduíche de presunto"
+    },
+    "14": {
+      "a": "Chaves",
+      "b": "Chuquinha",
+      "c": "Inhonhô",
+      "d": "Kiko"
+    },
+    "15": {
+      "a": "A casinha do Kiko",
+      "b": "A confusão do cabeleireiro",
+      "c": "Os campeões de ioiô",
+      "d": "Nenhuma das opções"
+    },
+    "16": {
+      "a": "Chaves",
+      "b": "Chiquinha",
+      "c": "Kiko",
+      "d": "Sr. Madruga"
+    },
+    "17": {
+      "a": "Dona Beleza",
+      "b": "Dona Formosura",
+      "c": "Maravilhosa",
+      "d": "Glória"
+    },
+    "18": {
+      "a": "Paty",
+      "b": "Popis",
+      "c": "Tia da Paty",
+      "d": "Chiquinha"
+    },
+    "19": {
+      "a": "Chiquinha",
+      "b": "Paty",
+      "c": "Popis",
+      "d": "Tia da Paty"
+    },
+    "20": {
+      "a": "Chaves",
+      "b": "Prof. Girafales",
+      "c": "Sr. Barriga",
+      "d": "Sr. Madruga"
+    }
+  },
+  {
+    "1": "1984",
+    "2": "Roberto Gomes Bolaños",
+    "3": "Diretor",
+    "4": "Chaves e Dona Florinda",
+    "5": "Ana de La Macorra",
+    "6": "Angelines Fernández",
+    "7": "Sr. Madruga",
+    "8": "A venda da vila",
+    "9": "Professor Linguiça",
+    "10": "Dona Florinda",
+    "11": "SBT",
+    "12": "Bruxa do 71",
+    "13": "Sanduíche de presunto",
+    "14": "Kiko",
+    "15": "A confusão do cabeleireiro",
+    "16": "Chaves",
+    "17": "Glória",
+    "18": "Popis",
+    "19": "Popis",
+    "20": "Sr. Madruga"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "1": "(01) O quê o nome Bíblia Sagrada quer dizer?",
+    "2": "(02) Qual o significado da palavra Gênesis do grego?",
+    "3": "(03) Qual o primeiro homem criado por Deus que habitou no Éden?",
+    "4": "(04) Em quantos dias o Senhor Deus criou a terra segundo a Bíblia?",
+    "5": "(05) Como o Senhor Deus criou Eva a mulher de Adão?",
+    "6": "(06) Sara esposa de Abraão era infertil e gerou a Isaque com quantos anos?",
+    "7": "(07) José foi rei para governar em qual país depois de sair da prisão?",
+    "8": "(08) Davi além de pastor de ovelhas, salmista e rei em Israel era também?",
+    "9": "(09) Quem Deus escolhera para tirar seu povo da escravidão no Egito?",
+    "10": "(10) Quem adotou uma criança ao encontra-lo num cesto no rio e lhe pos o nome de Moisés?",
+    "11": "(11) Dentre os profetas quem mais profetizou a cerca do Messias?",
+    "12": "(12) Com quantos anos Senhor Jesus ainda menino começou a falar publicamente com sua sabedoria e ausentou-se depois?",
+    "13": "(13) Qual o primeiro discípulo de Cristo?",
+    "14": "(14) A quem Cristo apresentou-se transfigurado junto a Moisés e Elias? ",
+    "15": "(15) Cristo libertou de uma vez 10 leprosos, quantos voltaram para glorificar a Deus?",
+    "16": "(16) Após quantos dias Cristo foi ressucitado por Deus depois de morrer?",
+    "17": "(17) Qual o maior apostolo de Cristo?",
+    "18": "(18) A qual apóstolo o profeta Silas acompanhou em missão?",
+    "19": "(19) Cristo voltará para buscar sua igreja de que forma?",
+    "20": "(20) De qual assunto trata o livro de Apocalipse?"
+  },
+  {
+    "1": {
+      "a": "Conjunto de papéis",
+      "b": "Conjunto de Livros Sagrados",
+      "c": "Literaturas",
+      "d": "Livro dos Livros"
+    },
+    "2": {
+      "a": "Verdadeiro",
+      "b": "Destruição",
+      "c": "Origem",
+      "d": "Terra"
+    },
+    "3": {
+      "a": "Abraão",
+      "b": "Adão",
+      "c": "Caim",
+      "d": "Sete"
+    },
+    "4": {
+      "a": "1 dia",
+      "b": "2 dias",
+      "c": "6 dias",
+      "d": "7 dias"
+    },
+    "5": {
+      "a": "A partir da fecundação",
+      "b": "Das costelas de Adão",
+      "c": "Nasceu junto com Adão",
+      "d": "Pela Palavra"
+    },
+    "6": {
+      "a": "30 anos",
+      "b": "70 anos",
+      "c": "80 anos",
+      "d": "90 anos"
+    },
+    "7": {
+      "a": "Babilônia",
+      "b": "Egito",
+      "c": "Israel",
+      "d": "Árabia"
+    },
+    "8": {
+      "a": "Fazendeiro",
+      "b": "Juiz",
+      "c": "Profeta",
+      "d": "Sacedorte"
+    },
+    "9": {
+      "a": "Arão",
+      "b": "Calebe",
+      "c": "Josué",
+      "d": "Moisés"
+    },
+    "10": {
+      "a": "Esposa de Faraó ",
+      "b": "Filha de Faraó",
+      "c": "Faraó",
+      "d": "Filho de Faraó"
+    },
+    "11": {
+      "a": "Daniel",
+      "b": "Ezequiel",
+      "c": "Isaías",
+      "d": "Jeremias"
+    },
+    "12": {
+      "a": "3 anos",
+      "b": "7 anos",
+      "c": "12 anos",
+      "d": "13 anos"
+    },
+    "13": {
+      "a": "João",
+      "b": "Lucas",
+      "c": "Mateus",
+      "d": "Pedro"
+    },
+    "14": {
+      "a": "Pedro, João e Tiago",
+      "b": "Judas, Marcos e Mateus",
+      "c": "André, Bartolomeu, Tomé",
+      "d": "Tiago, Judas e Pedro"
+    },
+    "15": {
+      "a": "Os Dez",
+      "b": "Nove",
+      "c": "Oito",
+      "d": "Apenas um"
+    },
+    "16": {
+      "a": "Um dia",
+      "b": "Dois dias",
+      "c": "Três dias",
+      "d": "Quatro dias"
+    },
+    "17": {
+      "a": "Apóstolo João",
+      "b": "Apóstolo Lucas",
+      "c": "Apóstolo Paulo",
+      "d": "Apóstolo Pedro"
+    },
+    "18": {
+      "a": "Apóstolo André",
+      "b": "Apóstolo Lucas",
+      "c": "Apóstolo Paulo",
+      "d": "Apóstolo Pedro"
+    },
+    "19": {
+      "a": "Cristo pisará na terra",
+      "b": "Em Nuvens de Glória",
+      "c": "Numa carroagem de fogo",
+      "d": "Numa coluna de fogo"
+    },
+    "20": {
+      "a": "Condenação",
+      "b": "Apóstolo João",
+      "c": "Sobre fartura material",
+      "d": "Revelação do Fim dos tempos"
+    }
+  },
+  {
+    "1": "Conjunto de Livros Sagrados",
+    "2": "Origem",
+    "3": "Adão",
+    "4": "6 dias",
+    "5": "Das costelas de Adão",
+    "6": "90 anos",
+    "7": "Egito",
+    "8": "Profeta",
+    "9": "Moisés",
+    "10": "Filha de Faraó",
+    "11": "Isaías",
+    "12": "12 anos",
+    "13": "Pedro",
+    "14": "Pedro, João e Tiago",
+    "15": "Apenas um",
+    "16": "Três dias",
+    "17": "Apóstolo Paulo",
+    "18": "Apóstolo Paulo",
+    "19": "Em Nuvens de Glória",
+    "20": "Revelação do Fim dos tempos"
+  }
+]
